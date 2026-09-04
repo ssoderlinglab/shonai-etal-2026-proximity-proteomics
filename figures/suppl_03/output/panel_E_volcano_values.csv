@@ -1,0 +1,5 @@
+network,panel_position,category,display_name,term_id,database,term_description,statistic_source,fdr,observed_gene_count,panel_colour,colour_note,gene_set_source,category_genes_total,category_genes_plotted,significant_points,total_plotted_points,points_under_stat_box,printed_stat
+Lrrk2_WT,1,Synapse,Synapse,GO:0045202,SynGO 1.3 CC,synapse,SynGO,1.42e-09,66,#FFD166,"clustogram Synapse, unchanged",frozen gene list,66,66,309,5908,0,Q = 1.4 × 10⁻⁹ / GO:0045202 (SynGO) / n = 66
+Lrrk2_WT,2,SV_Endocytosis,SV + Endocytosis,mmu04144,KEGG,Endocytosis,STRING,0.0133,19,#E63946,"clustogram Presynapse hue, reassigned to break a duplicate",frozen gene list,23,23,309,5908,0,Q = 1.3 × 10⁻² / mmu04144 / n = 23
+Lrrk2_WT,3,Cytoskeleton,Cytoskeleton,GO:0005856,GO Component,Cytoskeleton,STRING,0.00014,86,#9B5DE5,"clustogram Cytoskeleton, unchanged",frozen gene list,85,85,309,5908,0,Q = 1.4 × 10⁻⁴ / GO:0005856 / n = 85
+Lrrk2_WT,4,Fiber_regulation,Fiber organization,GO:1902903,GO Process,Regulation of supramolecular fiber organization,STRING,0.00027,31,#2A9D8F,"clustogram SV/VMT teal, vacated and reused",GO term matching proteins,31,31,309,5908,0,Q = 2.7 × 10⁻⁴ / GO:1902903 / n = 31

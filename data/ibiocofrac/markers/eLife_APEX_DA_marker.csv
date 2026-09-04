@@ -1,0 +1,56 @@
+﻿Abbrev_in_panel_b,Protein Name ,GN,Log2 DA Neuron Enrichment,DA Neuron Enrichment FDR,Log2 Fold Change (Str/VM),p-value (Str vs. VM),FDR (Str vs. VM)
+NVP-2,Hippocalcin-like protein 4 (Neural visinin-like protein 2),Hpcal4,3.130405,4.10841E-64,-0.857928134,0.070880492,0.132426174
+Cadherin-13,Cadherin-13,Cdh13,3.040495,4.07845E-59,-inf,0.004501698,0.020594187
+BRSP-B,Seizure 6-like protein (Brain-specific receptor-like protein B),Sez6l,3.016338,2.21823E-91,-inf,1.50286E-05,0.002150515
+NRIP3,Nuclear receptor-interacting protein 3,Nrip3,3.187258,5.8425E-112,-2.548786123,3.01589E-05,0.002413535
+NTR1,Neurotensin receptor type 1,Ntsr1,5.991407,1.20137E-60,-1.452394944,0.003577508,0.017822353
+GIRK-2,G protein-activated inward rectifier potassium channel 2 (Kir3.2),Kcnj6,6.159626,3.80948E-16,-0.886147896,0.015349505,0.045281823
+Kv4.3,Potassium voltage-gated channel subfamily D member 3,Kcnd3,3.22396,1.2221E-127,-0.19748248,0.917877204,0.93204794
+ANKRD34B,Ankyrin repeat domain-containing protein 34B,Ankrd34b,3.658978,5.60939E-79,0.044208411,0.996360645,0.997394572
+Calbindin,Calbindin,Calb1,3.722965,5.15153E-40,0.22830858,0.854244831,0.882607834
+Copine-7,Copine-7,Cpne7,4.397132,1.1463E-213,0.148816499,0.717803647,0.771665585
+STEP,Tyrosine-protein phosphatase non-receptor type 5,Ptpn5,3.443123,1.85083E-96,0.189848333,0.502716183,0.574589508
+PLCXD3,PI-PLC X domain-containing protein 3,Plcxd3,3.524752,2.67031E-20,-0.838601492,0.452756911,0.526639268
+SCN-3B,Sodium channel subunit beta-3,Scn3b,3.249241,4.53992E-62,1.356814086,0.21166503,0.299320561
+GC-C,Guanylyl cyclase C (Heat-stable enterotoxin receptor),Gucy2c,9.629643,8.08598E-44,2.012815487,0.070315245,0.131795544
+PEG11,Retrotransposon-like protein 1,Rtl1,3.394503,3.02456E-34,0.855656731,0.099717149,0.167975221
+nAchR-beta2,Neuronal acetylcholine receptor subunit beta-2,Chrnb2,3.081793,2.70562E-19,1.225171666,0.046317655,0.098808089
+DRP-5,Dihydropyrimidinase-related protein 5,Dpysl5,3.342467,7.81721E-32,0.799763257,0.085246998,0.149699522
+SLC10A4,Sodium/bile acid cotransporter 4,Slc10a4,7.699236,2.1751E-142,2.242587303,0.044472863,0.095969604
+Caspr4,Contactin-associated protein-like 4,Cntnap4,3.119067,4.98355E-22,1.472396476,0.007973661,0.029677418
+TIGAR,"Fructose-2,6-bisphosphatase TIGAR",Tigar,3.687423,6.25951E-48,2.909051604,0.03997938,0.088455907
+Cav2.2,Voltage-dependent N-type calcium channel subunit alpha-1B,Cacna1b,3.538523,2.95631E-49,1.586537195,0.010973521,0.036713723
+SK3,Small conductance calcium-activated potassium channel protein 3,Kcnn3,3.148994,3.26434E-35,1.285332639,0.008793564,0.031691873
+GTP-CH-1,GTP cyclohydrolase 1,Gch1,3.137934,1.3036E-28,3.790101398,0.01525506,0.045095141
+Cav2.3,Voltage-dependent R-type calcium channel subunit alpha-1E,Cacna1e,3.049829,2.23208E-84,1.684464851,0.022378547,0.059036934
+CAPS2,Calcium-dependent secretion activator 2,Cadps2,4.614661,1.3469E-78,1.3925818,0.004160036,0.019671804
+NWD2,NACHT and WD repeat domain-containing protein 2,Nwd2,5.000043,6.4321E-91,2.473422163,0.003600511,0.017822353
+KANK4,KN motif and ankyrin repeat domain-containing protein 4,Kank4,4.199392,9.9413E-22,2.751491385,0.002463665,0.014118509
+GPR26,G-protein coupled receptor 26,Gpr26,3.717812,1.85229E-44,inf,0.001070483,0.008801076
+mLAT2,Large neutral amino acids transporter small subunit 2,Slc7a8,4.151704,8.3762E-11,2.0409498,4.72396E-05,0.002413535
+Complexin-1,Complexin-1,Cplx1,3.718535,4.7106E-251,2.067861825,0.001745612,0.011403615
+γ-synuclein,γ-synuclein,Sncg,3.089244,4.2222E-104,2.804606645,0.001558333,0.010618502
+α-synuclein,α-synuclein,Snca,3.526653,5.89481E-90,3.829427051,0.00096191,0.008285022
+Complexin-2,Complexin-2,Cplx2,3.211345,5.7206E-222,3.148474457,0.000854605,0.007801977
+ALDH1A7,"Aldehyde dehydrogenase, cytosolic 1",Aldh1a7,5.45472,1.39452E-10,2.861027062,0.000775205,0.007528103
+SV2B,Synaptic vesicle glycoprotein 2B,Sv2b,3.396788,9.32416E-41,3.593437771,2.61197E-05,0.002413535
+Syntaxin-1A,Syntaxin-1A,Stx1a,3.33996,1.88767E-11,1.978180413,0.000390612,0.005585562
+nAchR-alpha4,Neuronal acetylcholine receptor subunit alpha-4,Chrna4,4.213136,1.3347E-144,1.606831521,0.004533316,0.020594187
+TMEM-255a,Transmembrane protein 255A,Tmem255a,3.535672,2.51603E-58,inf,0.001809114,0.011641458
+SV2C,Synaptic vesicle glycoprotein 2C,Sv2c,5.179191,3.1942E-102,3.973982988,3.72549E-05,0.002413535
+TH,Tyrosine hydroxylase,Th,5.919934,0,2.29197897,3.93862E-05,0.002413535
+RAB-3C,Ras-related protein Rab-3C,Rab3c,3.377261,1.1427E-282,3.58859291,3.95051E-05,0.002413535
+ELKS2,ERC protein 2,Erc2,3.91288,1.4514E-152,4.193686119,4.70196E-05,0.002413535
+GPR158,Probable G-protein coupled receptor 158,Gpr158,3.390595,7.05002E-43,3.522297316,1.65863E-05,0.002150515
+PTPRU,Receptor-type tyrosine-protein phosphatase U,Ptpru,3.881598,1.11074E-48,inf,5.89308E-05,0.002425922
+SYT-1,Synaptotagmin-1,Syt1,3.594254,0,3.521333579,0.00011151,0.003103752
+NUMBL,Numb-like protein,Numbl,3.038884,1.888E-16,2.114140442,0.000270576,0.004690286
+PKC-alpha,cAMP-dependent protein kinase catalytic subunit alpha,Prkca,3.001106,5.38845E-87,1.589698822,0.000482003,0.005961188
+NYAP2,Neuronal tyrosine-phosphorylated phosphoinositide-3-kinase adapter 2,Nyap2,5.107626,2.17239E-19,2.146304484,0.000786362,0.007550484
+AADC,Aromatic-L-amino-acid decarboxylase,Ddc,3.62065,6.9313E-225,1.835485028,0.002066127,0.012588153
+VAT1L,Synaptic vesicle membrane protein VAT-1 homolog-like,Vat1l,3.287823,2.64209E-39,2.02260198,0.001194102,0.009390571
+RET,Proto-oncogene tyrosine-protein kinase receptor Ret,Ret,5.381722,2.7316E-267,2.757562895,0.000284802,0.004764258
+Bassoon,Protein bassoon,Bsn,3.432264,2.30804E-58,4.333059265,0.000146879,0.003572005
+DAT,Sodium-dependent dopamine transporter,Slc6a3,5.660794,0,2.869824371,8.4996E-05,0.002795208
+SLC8A2,Sodium/calcium exchanger 2,Slc8a2,3.733712,1.23339E-12,2.646275739,0.000260191,0.004625815
+SYT-17,Synaptotagmin-17,Syt17,4.79492,2.00841E-14,3.763288806,0.000208908,0.004156246

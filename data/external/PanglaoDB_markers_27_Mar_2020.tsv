@@ -1,0 +1,275 @@
+species	official gene symbol	cell type	organ
+Mm Hs	S100B	Astrocytes	Brain
+Mm Hs	SLC1A2	Astrocytes	Brain
+Mm Hs	GFAP	Astrocytes	Brain
+Mm Hs	BYSL	Astrocytes	Brain
+Mm Hs	ALDH1L1	Astrocytes	Brain
+Mm Hs	CD40	Astrocytes	Brain
+Mm Hs	SLC1A3	Astrocytes	Brain
+Mm Hs	FGFR3	Astrocytes	Brain
+Mm Hs	GJB6	Astrocytes	Brain
+Mm Hs	AQP4	Astrocytes	Brain
+Mm Hs	HTRA1	Astrocytes	Brain
+Mm Hs	S100A8	Astrocytes	Brain
+Mm Hs	CLDN10	Astrocytes	Brain
+Mm Hs	ITIH3	Astrocytes	Brain
+Mm Hs	NKAIN4	Astrocytes	Brain
+Mm Hs	ACSL6	Astrocytes	Brain
+Mm Hs	ACSBG1	Astrocytes	Brain
+Mm Hs	TRIL	Astrocytes	Brain
+Mm Hs	AGT	Astrocytes	Brain
+Mm Hs	GPR37L1	Astrocytes	Brain
+Mm Hs	SLC4A4	Astrocytes	Brain
+Mm Hs	NTSR2	Astrocytes	Brain
+Mm Hs	SLC6A11	Astrocytes	Brain
+Mm Hs	HSPA2	Astrocytes	Brain
+Mm Hs	SLC16A2	Astrocytes	Brain
+Mm Hs	SYNE1	Astrocytes	Brain
+Mm Hs	DIO2	Astrocytes	Brain
+Mm Hs	SLC7A10	Astrocytes	Brain
+Mm Hs	ENTPD2	Astrocytes	Brain
+Mm Hs	HSPB6	Astrocytes	Brain
+Mm Hs	PLXNB1	Astrocytes	Brain
+Mm Hs	LCAT	Astrocytes	Brain
+Mm Hs	PLA2G7	Astrocytes	Brain
+Mm Hs	CMTM5	Astrocytes	Brain
+Mm Hs	S1PR1	Astrocytes	Brain
+Mm Hs	SLC39A12	Astrocytes	Brain
+Mm Hs	LUZP2	Astrocytes	Brain
+Mm Hs	GSTA4	Astrocytes	Brain
+Mm Hs	SLC25A28	Astrocytes	Brain
+Mm Hs	SLC25A46	Astrocytes	Brain
+Mm Hs	WNT3	Astrocytes	Brain
+Mm Hs	FZD2	Astrocytes	Brain
+Mm Hs	TEAD1	Astrocytes	Brain
+Mm Hs	RLBP1	Astrocytes	Brain
+Mm Hs	ALDOC	Astrocytes	Brain
+Mm Hs	GJA1	Astrocytes	Brain
+Mm Hs	APOE	Astrocytes	Brain
+Mm Hs	LCN2	Astrocytes	Brain
+Mm Hs	SOX9	Astrocytes	Brain
+Mm Hs	VIM	Astrocytes	Brain
+Mm Hs	CCR7	Astrocytes	Brain
+Mm Hs	AANAT	Astrocytes	Brain
+Mm Hs	FABP7	Astrocytes	Brain
+Mm Hs	SOCS3	Astrocytes	Brain
+Mm Hs	SYNM	Astrocytes	Brain
+Mm Hs	HMG20A	Astrocytes	Brain
+Mm Hs	NFATC3	Astrocytes	Brain
+Mm Hs	SRR	Astrocytes	Brain
+Mm Hs	SLC1A6	Astrocytes	Brain
+Mm Hs	ETS1	Astrocytes	Brain
+Mm Hs	SLIT1	Astrocytes	Brain
+Mm Hs	SNPH	Astrocytes	Brain
+Mm Hs	IL23A	Astrocytes	Brain
+Mm Hs	TH	Dopaminergic neurons	Brain
+Mm Hs	SLC6A3	Dopaminergic neurons	Brain
+Mm Hs	FOXA2	Dopaminergic neurons	Brain
+Mm Hs	KCNJ6	Dopaminergic neurons	Brain
+Mm Hs	NR4A2	Dopaminergic neurons	Brain
+Mm Hs	LMX1B	Dopaminergic neurons	Brain
+Mm Hs	CACNA2D2	Dopaminergic neurons	Brain
+Mm Hs	CADPS2	Dopaminergic neurons	Brain
+Mm Hs	CHRNA6	Dopaminergic neurons	Brain
+Mm Hs	MAPK8IP2	Dopaminergic neurons	Brain
+Mm Hs	NTN1	Dopaminergic neurons	Brain
+Mm Hs	PRKCG	Dopaminergic neurons	Brain
+Mm Hs	TENM1	Dopaminergic neurons	Brain
+Mm Hs	ZIM3	Dopaminergic neurons	Brain
+Mm Hs	DDC	Dopaminergic neurons	Brain
+Mm Hs	SLC18A2	Dopaminergic neurons	Brain
+Mm Hs	SLC18A3	Dopaminergic neurons	Brain
+Mm Hs	NEUROD6	Dopaminergic neurons	Brain
+Mm Hs	SMAD3	Dopaminergic neurons	Brain
+Mm Hs	PITX3	Dopaminergic neurons	Brain
+Mm Hs	SLC6A1	GABAergic neurons	Brain
+Mm Hs	GABBR2	GABAergic neurons	Brain
+Mm Hs	GAD1	GABAergic neurons	Brain
+Mm Hs	GADD45B	GABAergic neurons	Brain
+Mm Hs	PAX2	GABAergic neurons	Brain
+Mm Hs	SLC32A1	GABAergic neurons	Brain
+Mm Hs	GAD2	GABAergic neurons	Brain
+Mm Hs	VIP	GABAergic neurons	Brain
+Mm Hs	SST	GABAergic neurons	Brain
+Mm Hs	PVALB	GABAergic neurons	Brain
+Mm Hs	TNFAIP8L3	GABAergic neurons	Brain
+Mm Hs	SEMA3C	GABAergic neurons	Brain
+Mm Hs	MYBPC1	GABAergic neurons	Brain
+Mm Hs	PARM1	GABAergic neurons	Brain
+Mm Hs	DLX1	GABAergic neurons	Brain
+Mm Hs	SLC17A7	Glutaminergic neurons	Brain
+Mm Hs	SLC17A6	Glutaminergic neurons	Brain
+Mm Hs	GRIN1	Glutaminergic neurons	Brain
+Mm Hs	GRIN2B	Glutaminergic neurons	Brain
+Mm Hs	GLS	Glutaminergic neurons	Brain
+Mm Hs	MEIS2	Glutaminergic neurons	Brain
+Mm Hs	SLC17A8	Glutaminergic neurons	Brain
+Mm Hs	SLC1A1	Glutaminergic neurons	Brain
+Mm Hs	SLC1A2	Glutaminergic neurons	Brain
+Mm Hs	SLC1A6	Glutaminergic neurons	Brain
+Mm Hs	ITGAM	Microglia	Brain
+Mm Hs	ITGAX	Microglia	Brain
+Mm Hs	C5AR1	Microglia	Brain
+Mm Hs	CX3CR1	Microglia	Brain
+Mm Hs	P2RY12	Microglia	Brain
+Mm Hs	P2RX7	Microglia	Brain
+Mm Hs	CD40	Microglia	Brain
+Mm Hs	TREM2	Microglia	Brain
+Mm Hs	TMEM119	Microglia	Brain
+Mm Hs	GPR34	Microglia	Brain
+Mm Hs	TFF3	Microglia	Brain
+Mm	CBR2	Microglia	Brain
+Mm	ZEB2OS	Microglia	Brain
+Mm Hs	SALL1	Microglia	Brain
+Mm Hs	CSF3R	Microglia	Brain
+Mm Hs	TCIRG1	Microglia	Brain
+Mm Hs	SUSD3	Microglia	Brain
+Mm Hs	GPR183	Microglia	Brain
+Mm Hs	VAV1	Microglia	Brain
+Mm Hs	SLC2A5	Microglia	Brain
+Mm Hs	IL21R	Microglia	Brain
+Mm Hs	IL10RA	Microglia	Brain
+Mm Hs	PTAFR	Microglia	Brain
+Mm Hs	LAG3	Microglia	Brain
+Mm	IL6RA	Microglia	Brain
+Mm Hs	ENTPD1	Microglia	Brain
+Mm Hs	ADRB2	Microglia	Brain
+Mm Hs	TMEM173	Microglia	Brain
+Mm Hs	TBXAS1	Microglia	Brain
+Mm Hs	P2RY6	Microglia	Brain
+Mm Hs	P2RY13	Microglia	Brain
+Mm Hs	CEBPA	Microglia	Brain
+Mm Hs	CD180	Microglia	Brain
+Mm Hs	MYO1F	Microglia	Brain
+Mm	FCRLS	Microglia	Brain
+Mm Hs	OLFML3	Microglia	Brain
+Mm	SIGLECH	Microglia	Brain
+Mm Hs	S100A8	Microglia	Brain
+Mm Hs	LTC4S	Microglia	Brain
+Mm Hs	TGFBR1	Microglia	Brain
+Mm Hs	S100A9	Microglia	Brain
+Mm Hs	LPCAT2	Microglia	Brain
+Mm Hs	ITGB5	Microglia	Brain
+Mm Hs	LAIR1	Microglia	Brain
+Mm Hs	SPHK1	Microglia	Brain
+Mm Hs	COLEC12	Microglia	Brain
+Mm Hs	ALDH1A2	Microglia	Brain
+Mm Hs	AEBP1	Microglia	Brain
+Mm Hs	PTGDS	Microglia	Brain
+Mm Hs	CCR5	Microglia	Brain
+Mm Hs	SLCO2B1	Microglia	Brain
+Mm Hs	PTGS1	Microglia	Brain
+Mm Hs	APBB1IP	Microglia	Brain
+Mm Hs	CYFIP1	Microglia	Brain
+Mm Hs	CYTH4	Microglia	Brain
+Mm Hs	MERTK	Microglia	Brain
+Mm Hs	MAFB	Microglia	Brain
+Mm Hs	HPGDS	Microglia	Brain
+Mm Hs	BIN2	Microglia	Brain
+Mm	FCGR1	Microglia	Brain
+Mm Hs	CMTM6	Microglia	Brain
+Mm Hs	CCL4	Microglia	Brain
+Mm Hs	CCL3	Microglia	Brain
+Mm Hs	CCRL2	Microglia	Brain
+Mm Hs	UCP2	Microglia	Brain
+Mm Hs	CLEC3B	Microglia	Brain
+Mm Hs	MRC2	Microglia	Brain
+Mm Hs	CLEC10A	Microglia	Brain
+Mm Hs	PF4	Microglia	Brain
+Mm	CTS3	Microglia	Brain
+Mm	FCGR3	Microglia	Brain
+Mm Hs	CD53	Microglia	Brain
+Mm Hs	FOS	Microglia	Brain
+Mm Hs	EGR1	Microglia	Brain
+Mm Hs	AIF1	Microglia	Brain
+Mm Hs	CTSS	Microglia	Brain
+Mm Hs	CSF1R	Microglia	Brain
+Mm Hs	SKI	Microglia	Brain
+Mm Hs	C1QB	Microglia	Brain
+Mm Hs	GALC	Oligodendrocytes	Brain
+Mm Hs	MOG	Oligodendrocytes	Brain
+Mm Hs	OLIG1	Oligodendrocytes	Brain
+Mm Hs	OLIG2	Oligodendrocytes	Brain
+Mm Hs	OLIG3	Oligodendrocytes	Brain
+Mm Hs	SOX10	Oligodendrocytes	Brain
+Mm Hs	GJC2	Oligodendrocytes	Brain
+Mm Hs	GAMT	Oligodendrocytes	Brain
+Mm Hs	BCAS1	Oligodendrocytes	Brain
+Mm Hs	ENPP6	Oligodendrocytes	Brain
+Mm Hs	TMEM63A	Oligodendrocytes	Brain
+Mm Hs	GPR62	Oligodendrocytes	Brain
+Mm Hs	BACE1	Oligodendrocytes	Brain
+Mm Hs	CREB5	Oligodendrocytes	Brain
+Mm Hs	FGFR2	Oligodendrocytes	Brain
+Mm Hs	SLC25A38	Oligodendrocytes	Brain
+Mm Hs	HDAC11	Oligodendrocytes	Brain
+Mm Hs	TYRO3	Oligodendrocytes	Brain
+Mm Hs	S1PR5	Oligodendrocytes	Brain
+Mm Hs	ASPA	Oligodendrocytes	Brain
+Mm Hs	EPHB1	Oligodendrocytes	Brain
+Mm Hs	HEPACAM	Oligodendrocytes	Brain
+Mm Hs	SOX8	Oligodendrocytes	Brain
+Mm Hs	FASN	Oligodendrocytes	Brain
+Mm Hs	OMG	Oligodendrocytes	Brain
+Mm Hs	ZDHHC9	Oligodendrocytes	Brain
+Mm Hs	PTGDS	Oligodendrocytes	Brain
+Mm Hs	ADAMTS4	Oligodendrocytes	Brain
+Mm Hs	MYRF	Oligodendrocytes	Brain
+Mm Hs	SEMA4D	Oligodendrocytes	Brain
+Mm Hs	TMEM125	Oligodendrocytes	Brain
+Mm Hs	KLHL2	Oligodendrocytes	Brain
+Mm Hs	DPY19L1	Oligodendrocytes	Brain
+Mm Hs	TSPAN15	Oligodendrocytes	Brain
+Mm Hs	HAPLN2	Oligodendrocytes	Brain
+Mm Hs	NKX6-2	Oligodendrocytes	Brain
+Mm Hs	GJB1	Oligodendrocytes	Brain
+Mm Hs	OPALIN	Oligodendrocytes	Brain
+Mm Hs	VLDLR	Oligodendrocytes	Brain
+Mm Hs	MCAM	Oligodendrocytes	Brain
+Mm Hs	TMEM163	Oligodendrocytes	Brain
+Mm Hs	ERMN	Oligodendrocytes	Brain
+Mm Hs	FA2H	Oligodendrocytes	Brain
+Mm Hs	CLDN11	Oligodendrocytes	Brain
+Mm Hs	ANLN	Oligodendrocytes	Brain
+Mm Hs	ELOVL7	Oligodendrocytes	Brain
+Mm Hs	PLLP	Oligodendrocytes	Brain
+Mm Hs	DDC	Oligodendrocytes	Brain
+Mm Hs	POU3F1	Oligodendrocytes	Brain
+Mm Hs	NINJ2	Oligodendrocytes	Brain
+Mm Hs	SGK2	Oligodendrocytes	Brain
+Mm Hs	GJC3	Oligodendrocytes	Brain
+Mm Hs	GPR37	Oligodendrocytes	Brain
+Mm Hs	IL33	Oligodendrocytes	Brain
+Mm Hs	KLK6	Oligodendrocytes	Brain
+Mm Hs	NFE2L3	Oligodendrocytes	Brain
+Mm Hs	PEX5L	Oligodendrocytes	Brain
+Mm Hs	CLDN14	Oligodendrocytes	Brain
+Mm Hs	ITGB4	Oligodendrocytes	Brain
+Mm Hs	MYO1D	Oligodendrocytes	Brain
+Mm Hs	PDE8A	Oligodendrocytes	Brain
+Mm Hs	CNTF	Oligodendrocytes	Brain
+Mm Hs	EML1	Oligodendrocytes	Brain
+Mm Hs	KIF13B	Oligodendrocytes	Brain
+Mm Hs	KIF6	Oligodendrocytes	Brain
+Mm Hs	NIPAL4	Oligodendrocytes	Brain
+Mm Hs	SEC14L5	Oligodendrocytes	Brain
+Mm Hs	SP7	Oligodendrocytes	Brain
+Mm Hs	ST18	Oligodendrocytes	Brain
+Mm Hs	DUSP15	Oligodendrocytes	Brain
+Mm Hs	PRKCZ	Oligodendrocytes	Brain
+Mm Hs	ARSG	Oligodendrocytes	Brain
+Mm Hs	NPC1	Oligodendrocytes	Brain
+Mm Hs	MAG	Oligodendrocytes	Brain
+Mm Hs	SLC25A29	Oligodendrocytes	Brain
+Mm Hs	SLC25A19	Oligodendrocytes	Brain
+Mm Hs	PLEKHH1	Oligodendrocytes	Brain
+Mm Hs	TMEM88B	Oligodendrocytes	Brain
+Mm Hs	DBNDD2	Oligodendrocytes	Brain
+Mm Hs	EFNB3	Oligodendrocytes	Brain
+Mm Hs	SGK3	Oligodendrocytes	Brain
+Mm Hs	PNPLA2	Oligodendrocytes	Brain
+Mm Hs	ARRDC2	Oligodendrocytes	Brain
+Mm Hs	ENPP2	Oligodendrocytes	Brain
+Mm Hs	PLP1	Oligodendrocytes	Brain
+Mm Hs	ITPR2	Oligodendrocytes	Brain
+Mm Hs	MBP	Oligodendrocytes	Brain

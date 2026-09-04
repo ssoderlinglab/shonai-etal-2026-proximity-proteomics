@@ -1,0 +1,60 @@
+,tissue,class,class_marker,type_marker,full_name,common_name,subcluster,tissue_subcluster
+459,SN,NEURON,Slc17a7,C1ql3,Neuron.Slc17a7.C1ql3,Hippocampus Excitatory Neuron,1-1,SN_1-1
+460,SN,OLIGODENDROCYTE,Tfr,Slco3a1,Oligodendrocyte.Tfr.Slco3a1,Oligodendrocyte.Tfr.Slco3a1,10-1,SN_10-1
+461,SN,OLIGODENDROCYTE,Tfr,Plin3,Oligodendrocyte.Tfr.Plin3,Oligodendrocyte.Tfr.Plin3,10-2,SN_10-2
+462,SN,OLIGODENDROCYTE,Tfr,Ndrg2,Oligodendrocyte.Tfr.Ndrg2,Oligodendrocyte.Tfr.Ndrg2,10-3,SN_10-3
+463,SN,OLIGODENDROCYTE,Tfr,Il33,Oligodendrocyte.Tfr.Il33,Oligodendrocyte.Tfr.Il33,10-4,SN_10-4
+464,SN,OLIGODENDROCYTE,Tfr,Ctps,Oligodendrocyte.Tfr.Ctps,Oligodendrocyte.Tfr.Ctps,10-5,SN_10-5
+465,SN,OLIGODENDROCYTE,Tnr,Rps24,Oligodendrocyte.Tnr.Rps24,Oligodendrocyte.Tnr.Rps24,11-1,SN_11-1
+466,SN,ENDOTHELIAL_STALK,Flt1,Cdkn1c,Endothelial_Stalk.Flt1.Cdkn1c,Endothelial_Stalk.Flt1.Cdkn1c,12-1,SN_12-1
+467,SN,ENDOTHELIAL_STALK,Flt1,Gkn3,Endothelial_Stalk.Flt1.Gkn3,Endothelial_Stalk.Flt1.Gkn3,12-2,SN_12-2
+468,SN,ENDOTHELIAL_STALK,Flt1,Car4,Endothelial_Stalk.Flt1.Car4,Endothelial_Stalk.Flt1.Car4,12-3,SN_12-3
+469,SN,ENDOTHELIAL_STALK,Flt1,Vwf,Endothelial_Stalk.Flt1.Vwf,Endothelial_Stalk.Flt1.Vwf,12-4,SN_12-4
+470,SN,MURAL,Rgs5Acta2,Rgs5,Mural.Rgs5Acta2.Rgs5,Mural.Rgs5Acta2.Rgs5,13-1,SN_13-1
+471,SN,MURAL,Rgs5Acta2,Kcnj8,Mural.Rgs5Acta2.Kcnj8,Mural.Rgs5Acta2.Kcnj8,13-2,SN_13-2
+472,SN,MURAL,Rgs5Acta2,Cd9,Mural.Rgs5Acta2.Cd9,Mural.Rgs5Acta2.Cd9,13-3,SN_13-3
+473,SN,MURAL,Rgs5Acta2,Cbr2,Mural.Rgs5Acta2.Cbr2,Mural.Rgs5Acta2.Cbr2,13-4,SN_13-4
+474,SN,MURAL,Rgs5Acta2,Fos,Mural.Rgs5Acta2.Fos,Mural.Rgs5Acta2.Fos,13-5,SN_13-5
+475,SN,ENDOTHELIAL_TIP,Dcn,Mgp,Endothelial_Tip.Dcn.Mgp,Endothelial_Tip.Dcn.Mgp,14-1,SN_14-1
+476,SN,ENDOTHELIAL_TIP,Dcn,Ifitm1,Endothelial_Tip.Dcn.Ifitm1,Endothelial_Tip.Dcn.Ifitm1,14-2,SN_14-2
+477,SN,ENDOTHELIAL_TIP,Dcn,Alcam,Endothelial_Tip.Dcn.Alcam,Endothelial_Tip.Dcn.Alcam,14-3,SN_14-3
+478,SN,NEURON,Slc17a6,NA,Neuron.Slc17a6,Thalamus, glutamatergic,2-1,SN_2-1
+479,SN,NEURON,Gad1Gad2,Nfib-Satb1,Neuron.Gad1Gad2.Nfib-Satb1,Supramammillary Nucleus (SuM),3-1,SN_3-1
+480,SN,NEURON,Slc17a6,Cacna2d1,Neuron.Slc17a6.Cacna2d1,generic SN/VTA glutamatergic neuron,3-10,SN_3-10
+481,SN,NEURON,Slc17a6,Shox2,Neuron.Slc17a6.Shox2,peripeduncular nucleus & posterior intralaminar thalamic nucleus (PP & PIL),3-11,SN_3-11
+482,SN,NEURON,Slc17a6,Nkx6-1,Neuron.Slc17a6.Nkx6-1,SN/VTA (SNr),3-12,SN_3-12
+483,SN,NEURON,Gad1Gad2,Sema3e,Neuron.Gad1Gad2.Sema3e,SN/VTA (SNr),3-13,SN_3-13
+484,SN,NEURON,Gad1Gad2,Ttn,Neuron.Gad1Gad2.Ttn,red nucleus, magnocellular/parvicellular (RMC/RPC),3-14,SN_3-14
+485,SN,NEURON,Slc17a6,C1ql2,Neuron.Slc17a6.C1ql2,red nucleus, magnocellular/parvicellular (RMC/RPC),3-15,SN_3-15
+486,SN,NEURON,Gad1Gad2,Gad2-Kcnc3,Neuron.Gad1Gad2.Gad2-Kcnc3,GABAergic, K/Na Channel State,3-16,SN_3-16
+487,SN,NEURON,Gad1Gad2,Sema3e-Kcng4,Neuron.Gad1Gad2.Sema3e-Kcng4,GABAergic, K Channel State, Sema3e+ SN/VTA (SNr),3-17,SN_3-17
+488,SN,NEURON,Gad1Gad2,Pax5,Neuron.Gad1Gad2.Pax5,SN/VTA (SNr),3-18,SN_3-18
+489,SN,NEURON,Gad1Gad2,Tmem132c,Neuron.Gad1Gad2.Tmem132c,SN/VTA (SNr),3-19,SN_3-19
+490,SN,NEURON,Gad1Gad2,Otx2-Chrna3,Neuron.Gad1Gad2.Otx2-Chrna3,SN/VTA (dorsal SNr),3-2,SN_3-2
+491,SN,NEURON,Gad1Gad2,Gad2,Neuron.Gad1Gad2.Gad2,generic SN/VTA GABAergic neuron,3-3,SN_3-3
+492,SN,NEURON,Gad1Gad2,Ndnf,Neuron.Gad1Gad2.Ndnf,medial geniculate nucleus, ventral part (MGV)? Or State? ,3-4,SN_3-4
+493,SN,NEURON,Gad1Gad2,Rln3,Neuron.Gad1Gad2.Rln3,parabrachial pigmented nucleus (PBP),3-5,SN_3-5
+494,SN,NEURON,Slc17a6,Tcf4,Neuron.Slc17a6.Tcf4,Supramammillary Nucleus (SuM),3-6,SN_3-6
+495,SN,NEURON,Slc17a6-Gad2-Th,Crhbp,Neuron.Slc17a6-Gad2-Th.Crhbp, Supramammillary Nucleus (SuM) Dopaminergic?, Th+/Ddc+,3-7,SN_3-7
+496,SN,NEURON,Gad1Gad2,Fos,Neuron.Gad1Gad2.Gad2-Fos,IEG state, GABAergic ,3-8,SN_3-8
+497,SN,NEURON,Slc17a6,Nts,Neuron.Slc17a6.Nts,peripeduncular nucleus & posterior intralaminar thalamic nucleus (PP & PIL),3-9,SN_3-9
+498,SN,NEURON,Th-Slc17a6,Lpl,Neuron.Th-Slc17a6-Lpl,VTA (ventral VTA),4-1,SN_4-1
+499,SN,NEURON,Th,Cbln1,Neuron.Th.Cbln1,VTA (dorsal VTA),4-2,SN_4-2
+500,SN,NEURON,Th,Cyp26b1,Neuron.Th.Cyp26b1,SNc/VTA,4-3,SN_4-3
+501,SN,NEURON,Th,C1ql3,Neuron.Th.C1ql3,VTA (dorsal VTA),4-4,SN_4-4
+502,SN,NEURON,Th,Vcan,Neuron.Th.Vcan,SNc,4-5,SN_4-5
+503,SN,NEURON,Th,Cadm2,Neuron.Th.Cadm2,Cadm2 state,4-6,SN_4-6
+504,SN,NEURON,Th,Nefm,Neuron.Th.Nefl,Neurofilament state,4-7,SN_4-7
+505,SN,NEURON,Th,Anxa1,Neuron.Th.Aldh1a1,SNc/VTA,4-8,SN_4-8
+506,SN,NEURON,Th,Grin2c,Neuron.Th.Grin2c,SNc,4-9,SN_4-9
+507,SN,POLYDENDROCYTE,Tnr,Bmp4,Polydendrocyte.Tnr.Bmp4,Polydendrocyte.Tnr.Bmp4,5-1,SN_5-1
+508,SN,POLYDENDROCYTE,Tnr,Tmem2,Polydendrocyte.Tnr.Tmem2,Polydendrocyte.Tnr.Tmem2,5-2,SN_5-2
+509,SN,POLYDENDROCYTE,Tnr,Opalin,Polydendrocyte.Tnr.Opalin,Polydendrocyte.Tnr.Opalin,5-3,SN_5-3
+510,SN,POLYDENDROCYTE,Tnr,Cspg5,Polydendrocyte.Tnr.Cspg5,Polydendrocyte.Tnr.Cspg5,6-1,SN_6-1
+511,SN,POLYDENDROCYTE,Tnr,Cspg5-Dad1,Polydendrocyte.Tnr.Cspg5-Dad1,Polydendrocyte.Tnr.Cspg5-Dad1,6-2,SN_6-2
+512,SN,ASTROCYTE,Gja1,Myoc,Astrocyte.Gja1.Myoc,Astrocyte.Gja1.Myoc,7-1,SN_7-1
+513,SN,ASTROCYTE,Gja1,Cst3,Astrocyte.Gja1.Cst3,Astrocyte.Gja1.Cst3,7-2,SN_7-2
+514,SN,ASTROCYTE,Gja1,Igfbp2,Astrocyte.Gja1.Igfbp2,Astrocyte.Gja1.Igfbp2,7-3,SN_7-3
+515,SN,EPENDYMAL,Ccdc153,Ccdc153,Ependyma.Ccdc153,Ependyma.Ccdc153,8-1,SN_8-1
+516,SN,MACROPHAGE,C1qb,Mrc1,Macrophage.C1qb.Mrc1,Resident macrophage,9-1,SN_9-1
+517,SN,MICROGLIA,C1qb,Tmem119,Microglia.C1qb.Tmem119,Microglia.C1qb.Tmem119,9-2,SN_9-2

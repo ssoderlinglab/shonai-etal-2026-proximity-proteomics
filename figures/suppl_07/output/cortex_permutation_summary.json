@@ -1,0 +1,49 @@
+{
+  "seed": 20260811,
+  "n_perm": 200000,
+  "method": "size-matched permutation WITHOUT replacement, two-sided against the dataset's own proteome mean, BH across 21 cells",
+  "cortex_log2FC": "DEqMS contrast coefficient, 3 vs 3 mice, no fractions",
+  "cortex_pool": {
+    "LRRK2": 8664,
+    "VPS35": 8664,
+    "SNCA": 8664
+  },
+  "n_cells_sig_cortex": 2,
+  "n_cells_sig_cofrac": 10,
+  "n_cells_same_sign": 13,
+  "n_cells_sig_both": 2,
+  "synapse_cortex": {
+    "LRRK2": {
+      "delta": 0.02476223706765754,
+      "q": 0.4947810000000001,
+      "n": 283
+    },
+    "SNCA": {
+      "delta": 0.025755122200849516,
+      "q": 0.4947810000000001,
+      "n": 283
+    },
+    "VPS35": {
+      "delta": 0.1333652244079341,
+      "q": 0.0005775000000000001,
+      "n": 283
+    }
+  },
+  "synapse_cofrac": {
+    "LRRK2": {
+      "delta": -0.1237622151427008,
+      "q": 3.5000000000000004e-05,
+      "n": 285
+    },
+    "SNCA": {
+      "delta": -0.0509775384001884,
+      "q": 0.0424725,
+      "n": 135
+    },
+    "VPS35": {
+      "delta": -0.0522400324885508,
+      "q": 0.000315,
+      "n": 143
+    }
+  }
+}

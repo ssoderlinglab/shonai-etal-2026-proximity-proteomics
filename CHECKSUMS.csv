@@ -1,0 +1,172 @@
+path,size_bytes,md5,note
+tables/output/Table_S1_iBioID_Vps35_Proximity_Proteome.xlsx,1026223,5ba1f7242a994bf9cc584caaae0fa438,
+tables/output/Table_S2_iBioID_Snca_Proximity_Proteome.xlsx,1111205,cb7024e0d291c74c41dd3e39cd5ff3d4,
+tables/output/Table_S3_iBioID_Lrrk2_Proximity_Proteome.xlsx,1949915,fd322bf553bd6c07955f92653bd64ae8,
+tables/output/Table_S4_iBioID_Convergence.xlsx,44704,7dbfdf7c646c73ac3cca66b5bc8df4d3,
+tables/output/Table_S5_iBioCoFrac_Module_Permutation.xlsx,9251,fb744c9d0ea4766021ce1a266e6e1036,
+tables/output/Table_S6_iBioCoFrac_Module_Proteins.xlsx,67331,f7d4b9084d8dcc8b5e2418d417e8eec3,
+tables/output/Table_S7_CrAAVe_seq_CRISPR_Screen.xlsx,77186,62e28aaf2ff0800e6225846b1447a263,
+figures/suppl_03/output/panel_C_replicate_scatter_Lrrk2_WT.png,123306,3871af71d6d5448d118e476eb7e3272f,
+figures/suppl_03/output/panel_C_replicate_scatter_Lrrk2_WT.svg,98630,,size only; matplotlib stamps SVG
+figures/suppl_03/output/panel_E_volcano_Lrrk2.png,475205,1cb48123dbcac86a0effe9a2f857d41d,
+figures/suppl_03/output/panel_E_volcano_Lrrk2.svg,496258,,size only; matplotlib stamps SVG
+figures/suppl_03/output/panel_E_volcano_values.csv,1200,4ca707db7e92881b528dc8ddca09c48c,
+figures/suppl_04/output/panel_A_partner_counts.png,144319,e52da3c86e33dbb6f953907c6e889afa,
+figures/suppl_04/output/panel_A_partner_counts_editable.svg,21462,,size only; matplotlib stamps SVG
+figures/suppl_04/output/panel_A_partner_counts_outlined.svg,62388,,size only; matplotlib stamps SVG
+figures/suppl_04/output/panel_B_database_support.png,243664,6c206be2548289bb7ff2feb074e88b1f,
+figures/suppl_04/output/panel_B_database_support_editable.svg,50606,,size only; matplotlib stamps SVG
+figures/suppl_04/output/panel_B_database_support_outlined.svg,103243,,size only; matplotlib stamps SVG
+figures/suppl_05/output/cmh_forest.png,127277,5342aa30d8d7b0c337ce600aa4164be6,
+figures/suppl_05/output/cmh_forest.svg,82749,,size only; matplotlib stamps SVG
+figures/suppl_05/output/dan_heatmap.png,180248,079eaae05441db832de6007a15c8b5a9,
+figures/suppl_05/output/dan_heatmap.svg,129243,,size only; matplotlib stamps SVG
+figures/suppl_05/output/fractionation_pca.png,358927,9e8f730f26c48db8a62ce542e6dd6837,
+figures/suppl_05/output/fractionation_pca.svg,54650,,size only; matplotlib stamps SVG
+figures/suppl_05/output/fractionation_pca_variance.csv,71,f13a1b3025105fad3b333fb1063fa06f,
+figures/suppl_02/output/panel_C_replicate_scatter_aSyn_WT.png,139921,581b228b63a38b26e7dfe4c8daf4d239,
+figures/suppl_02/output/panel_C_replicate_scatter_aSyn_WT.svg,112528,,size only; matplotlib stamps SVG
+figures/suppl_02/output/panel_E_volcano_aSyn.png,533987,ceb0d6eb0ea2f5ec5fc159df2fc38a11,
+figures/suppl_02/output/panel_E_volcano_aSyn.svg,513909,,size only; matplotlib stamps SVG
+figures/suppl_02/output/panel_E_volcano_values.csv,1146,567f10a92cf6324eb64e83ab5b5180f4,
+figures/main_02/output/PartConv_BP_bg500_top10.png,212120,51d62038008770dc1bdd26414fb85934,
+figures/main_02/output/PartConv_BP_bg500_top10.svg,83932,,size only; matplotlib stamps SVG
+figures/main_02/output/PartConv_CC_bg500_top10.png,176426,d0c998cce219e0778760863b53428fb8,
+figures/main_02/output/PartConv_CC_bg500_top10.svg,74233,,size only; matplotlib stamps SVG
+figures/main_02/output/PartConv_MF_bg500_top10.png,195826,6b0f5a2c9499516198f76a7d6956a48b,
+figures/main_02/output/PartConv_MF_bg500_top10.svg,77859,,size only; matplotlib stamps SVG
+figures/main_02/output/venn_wt_shared.png,154671,6beffd1d85924c0140ec91b142f3b9e0,
+figures/main_02/output/venn_wt_shared.svg,19710,,size only; matplotlib stamps SVG
+figures/main_05/output/panel_D_enrichment_heatmap.csv,5942,51334f6cf8135dda91b069d39df622f4,
+figures/main_05/output/panel_D_enrichment_heatmap.png,140777,69be100e21dd6a9ed0e7b005b352c250,
+figures/main_05/output/panel_D_enrichment_heatmap.svg,85184,,size only; matplotlib stamps SVG
+figures/main_05/output/panel_E_module_FC_heatmap.png,166409,58ffcddc0e63f90539184bc3dae15cbd,
+figures/main_05/output/panel_E_module_FC_heatmap.svg,111333,,size only; matplotlib stamps SVG
+figures/main_05/output/permutation_all21.csv,5222,2d088f9aba8f3d6d5c56dbce4686247d,
+figures/main_04/output/PartConv_BP_shift.png,401202,93ed33a9c79a3c6413e9cb899a3b3420,
+figures/main_04/output/PartConv_BP_shift.svg,141293,,size only; matplotlib stamps SVG
+figures/main_04/output/PartConv_CC_shift.png,336431,4374733a34ee786b942b70ea41e8561b,
+figures/main_04/output/PartConv_CC_shift.svg,115691,,size only; matplotlib stamps SVG
+figures/main_04/output/venn_mut_shared.png,153065,62f6f23ceb252788bfbae7e9f672a7a2,
+figures/main_04/output/venn_mut_shared.svg,19736,,size only; matplotlib stamps SVG
+figures/main_03/output/Lrrk2_CC_shift.png,284871,40382c9f99c047a403e024055ed3d14a,
+figures/main_03/output/Lrrk2_CC_shift.svg,99273,,size only; matplotlib stamps SVG
+figures/main_03/output/Venn_Lrrk2.png,103151,91ccbe28b8c0b3f58b25d00e7c2ef754,
+figures/main_03/output/Venn_Lrrk2.svg,5122,,size only; matplotlib stamps SVG
+figures/main_03/output/Venn_Vps35.png,102106,d35480504a5f65c00e5a108abb1022a6,
+figures/main_03/output/Venn_Vps35.svg,5121,,size only; matplotlib stamps SVG
+figures/main_03/output/Venn_aSyn.png,103753,f0e75ad30697766e665e8c34a4283be3,
+figures/main_03/output/Venn_aSyn.svg,5128,,size only; matplotlib stamps SVG
+figures/main_03/output/Vps35_CC_shift.png,338681,98f450199cfcff2c18e5d9c402c63195,
+figures/main_03/output/Vps35_CC_shift.svg,115955,,size only; matplotlib stamps SVG
+figures/main_03/output/aSyn_CC_shift.png,341410,74889157e394e42c4d3b79b64fb8720c,
+figures/main_03/output/aSyn_CC_shift.svg,116763,,size only; matplotlib stamps SVG
+figures/suppl_10/output/panel_B_tent_barplot.png,34125,d7fd2476c0e691b1c41cf5dffff68b9c,
+figures/suppl_10/output/panel_B_tent_barplot.svg,26569,,size only; matplotlib stamps SVG
+figures/suppl_10/output/panel_D_vamp2_wb.png,33850,4405a256b1803319a5cf751bcc3515b7,
+figures/suppl_10/output/panel_D_vamp2_wb.svg,29166,,size only; matplotlib stamps SVG
+figures/suppl_10/output/panel_E_mea_mfr.png,113736,c6f3dde195637e13f63cb21a6c104391,
+figures/suppl_10/output/panel_E_mea_mfr.svg,92092,,size only; matplotlib stamps SVG
+figures/suppl_07/output/cortex_permutation_all21.csv,5402,713d26ee28f0abe069120fcfde7f4c53,
+figures/suppl_07/output/cortex_permutation_summary.json,1097,740d2d99f1977f0aaa3cd24d3ce4e7a7,
+figures/suppl_07/output/cortex_vs_cofrac_21cells.csv,5704,ae168b2fab6a6e6535e64609a9054d05,
+figures/suppl_07/output/panel_B_group_shift_heatmap.png,149589,a9e5bf79fe24de26c40aa0b70c233d76,
+figures/suppl_07/output/panel_B_group_shift_heatmap.svg,47742,,size only; matplotlib stamps SVG
+figures/suppl_07/output/panel_C_group_protein_strips.png,317364,3ac98599c4fdc25ab1af25faa7f59be1,
+figures/suppl_07/output/panel_C_group_protein_strips.svg,241442,,size only; matplotlib stamps SVG
+figures/suppl_07/output/panel_D_cortex_vs_cofrac.png,217014,17ff93f10f2d1d658660ceeadc036366,
+figures/suppl_07/output/panel_D_cortex_vs_cofrac.svg,59967,,size only; matplotlib stamps SVG
+figures/suppl_09/output/panel_B_moi_evaluation.png,50708,291b311ec62a8dc91a9011c7edea7b1d,
+figures/suppl_09/output/panel_B_moi_evaluation.svg,37211,,size only; matplotlib stamps SVG
+figures/suppl_09/output/panel_E_gRNA_recovery.png,60237,8e038377a588c9ea6fa74f0c2fdb1fcf,
+figures/suppl_09/output/panel_E_gRNA_recovery.svg,37559,,size only; matplotlib stamps SVG
+figures/suppl_09/output/panel_G_sgRNA_violin.png,116367,eb0a36f878edf68950be152aa6441ca1,
+figures/suppl_09/output/panel_G_sgRNA_violin.svg,120758,,size only; matplotlib stamps SVG
+figures/suppl_09/output/panel_H_pca.png,58488,85e7e4d4770f55dccd67d029d82854f2,
+figures/suppl_09/output/panel_H_pca.svg,35375,,size only; matplotlib stamps SVG
+figures/suppl_09/output/panel_I_sgRNA_heatmap.png,178450,787b3ce7a325764fd0fd83c5880d0bed,
+figures/suppl_09/output/panel_I_sgRNA_heatmap.svg,165682,,size only; matplotlib stamps SVG
+figures/suppl_09/output/panel_K_munc18_wb.png,52412,c4f9e1dd91bc5579f8b3a38d6153611f,
+figures/suppl_09/output/panel_K_munc18_wb.svg,45743,,size only; matplotlib stamps SVG
+figures/suppl_09/output/panel_L_gfp_barplot.png,35295,7393251a20436f52b523495f0bd7f315,
+figures/suppl_09/output/panel_L_gfp_barplot.svg,29283,,size only; matplotlib stamps SVG
+figures/suppl_08/output/panel_B_checksums.csv,401,74895b3ed5d280bc0293f8c9d83da9aa,
+figures/suppl_08/output/panel_B_subtype_ranking.png,130277,769f4ba39c51aa4084f033da809e3656,
+figures/suppl_08/output/panel_B_subtype_ranking.svg,15330,,size only; matplotlib stamps SVG
+figures/suppl_08/output/panel_C_checksums.csv,329,e82f67b3fa4338ea753d01559600d010,
+figures/suppl_08/output/panel_C_module_rank.png,88355,bb54d97147353b7664ac1a44a90860d5,
+figures/suppl_08/output/panel_C_module_rank.svg,15217,,size only; matplotlib stamps SVG
+figures/suppl_08/output/panel_D_checksums.csv,252,c7d0638340caec9b09c6adfcc5862426,
+figures/suppl_08/output/panel_D_proxiome_AGTR1.png,141301,f4b6fd9cffb132e75586154da8214a5c,
+figures/suppl_08/output/panel_D_proxiome_AGTR1.svg,21924,,size only; matplotlib stamps SVG
+figures/suppl_08/output/panel_E_checksums.csv,371,016a9796800e053137a21a481e294f7c,
+figures/suppl_08/output/panel_E_martirosyan.png,77851,d9963b03191df7439ad699543f27ab96,
+figures/suppl_08/output/panel_E_martirosyan.svg,25006,,size only; matplotlib stamps SVG
+figures/suppl_08/output/panel_E_martirosyan_transparent.png,78147,5ac8f2121929ce719eec97747d1396bd,
+figures/suppl_08/output/panel_F_checksums.csv,357,692ddf48aca0be7ebf05601c292aa30c,
+figures/suppl_08/output/panel_F_stxbp1.png,75897,4aec1a33da728d9bae6730f4439eade4,
+figures/suppl_08/output/panel_F_stxbp1.svg,22288,,size only; matplotlib stamps SVG
+figures/suppl_08/output/panel_F_stxbp1_transparent.png,76156,a5e137186d22de50806cd34ccd73ecc5,
+figures/suppl_01/output/panel_C_replicate_scatter_Vps35_WT.png,126882,1681ab04276c8add24f1b362cb13ae18,
+figures/suppl_01/output/panel_C_replicate_scatter_Vps35_WT.svg,103746,,size only; matplotlib stamps SVG
+figures/suppl_01/output/panel_E_volcano_Vps35.png,488469,1612a1c154f6b4c1f6ed0709003cf6b4,
+figures/suppl_01/output/panel_E_volcano_Vps35.svg,462063,,size only; matplotlib stamps SVG
+figures/suppl_01/output/panel_E_volcano_values.csv,1182,243b380f90252e897069067c54b621b1,
+figures/suppl_06/output/U2_framingA_meta.json,334,24f5d8732bdb31822786a5e33d300ba2,
+figures/suppl_06/output/module_coherence_density.csv,16840,1e19d58878400b5a4df3f99de0d51748,
+figures/suppl_06/output/module_coherence_density_BH.csv,18685,cc1b12d5854fa43504464d9d796f0b69,
+figures/suppl_06/output/panel_A_detection_venn.png,180547,3102d3dcb63bb66eae1e2fc2b2c57f12,
+figures/suppl_06/output/panel_A_detection_venn.svg,53329,,size only; matplotlib stamps SVG
+figures/suppl_06/output/panel_B_module_coherence.png,157603,45242da091648800afe7e5d2a7d2995b,
+figures/suppl_06/output/panel_B_module_coherence.svg,110892,,size only; matplotlib stamps SVG
+figures/suppl_06/output/panel_C_concordance.csv,478,afee40f62c8b3ff757e3f0a6d5284cc9,
+figures/suppl_06/output/panel_C_concordance_scatter.png,364190,c7455d7c16b82f843a5cdee4590e7d2e,
+figures/suppl_06/output/panel_C_concordance_scatter.svg,303463,,size only; matplotlib stamps SVG
+figures/suppl_06/output/panel_D_module_fc.png,274845,41f6c2c7970141710b5ccdc136d95edf,
+figures/suppl_06/output/panel_D_module_fc.svg,419177,,size only; matplotlib stamps SVG
+figures/main_06/output/M11_BP_top5_bg500.png,132037,602bf412158a24088bbdc5565be625ae,
+figures/main_06/output/M11_BP_top5_bg500.svg,56950,,size only; matplotlib stamps SVG
+figures/main_06/output/M11_CC_top5_bg500.png,112979,11606134a321f6c4b8d3a5ad648a3a69,
+figures/main_06/output/M11_CC_top5_bg500.svg,52460,,size only; matplotlib stamps SVG
+figures/main_06/output/M11_MF_top5_bg500.png,140568,46adf9a8293d6f2d03f46a539ab08fc7,
+figures/main_06/output/M11_MF_top5_bg500.svg,61605,,size only; matplotlib stamps SVG
+figures/main_06/output/panel_A_proxiome_module_enrichment.csv,7808,34532c81e1729c66c3bc306477284c7f,
+figures/main_06/output/panel_A_proxiome_module_heatmap.png,260074,f825bad13a1d13e7141c52b3e839fdbc,
+figures/main_06/output/panel_A_proxiome_module_heatmap.svg,137948,,size only; matplotlib stamps SVG
+figures/main_06/output/panel_D_curve_values.csv,487,8fdf0d640f609376894048c3d0c3adf3,
+figures/main_06/output/panel_D_m11_fraction_profile.png,1093237,b0b209f602abe3925907e5af4bda5b92,
+figures/main_06/output/panel_D_m11_fraction_profile.svg,85218,,size only; matplotlib stamps SVG
+figures/main_06/output/permutation_bootstrap.json,2186,5cd46ddcd659784f84f67c3427b5b87a,
+figures/main_06/output/permutation_result.csv,192,5240350bb4522e6f869c17366e5904a5,
+figures/main_06/output/protlevel_LRRK2.csv,234554,c940b07d6e66f837c9d205707a0432df,
+figures/main_06/output/protlevel_SNCA.csv,81829,06f5e2ad5db9e784381c4372a88faf9d,
+figures/main_06/output/protlevel_VPS35.csv,101294,6ab8450d8c9c05b2b822c9958faf37db,
+figures/main_06/output/tidy_LRRK2_module_annotated.csv,4045947,660be66705c24b708b57567530a59db9,
+figures/main_06/output/tidy_SNCA_module_annotated.csv,1421779,9c18a82604cbe9877661393cced9e43b,
+figures/main_06/output/tidy_VPS35_module_annotated.csv,1760155,b90fb89c1cdc21f97cb03ccc3cdb7543,
+figures/main_01/output/Lrrk2_BP_bg500_top10.png,181877,652a9aeb62223f2415be4d0fdf42a9b1,
+figures/main_01/output/Lrrk2_BP_bg500_top10.svg,73822,,size only; matplotlib stamps SVG
+figures/main_01/output/Lrrk2_CC_bg500_top10.png,170648,ab85aec37023d4e82482745be924744f,
+figures/main_01/output/Lrrk2_CC_bg500_top10.svg,72536,,size only; matplotlib stamps SVG
+figures/main_01/output/Vps35_BP_bg500_top10.png,187573,13db33903b52f17df89335cdd35056c6,
+figures/main_01/output/Vps35_BP_bg500_top10.svg,79104,,size only; matplotlib stamps SVG
+figures/main_01/output/Vps35_CC_bg500_top10.png,171193,0a22368dad2cac783846eeaf60d747d9,
+figures/main_01/output/Vps35_CC_bg500_top10.svg,73297,,size only; matplotlib stamps SVG
+figures/main_01/output/aSyn_BP_bg500_top10.png,192263,23f60d35bce6037528e1c32c9482fdd0,
+figures/main_01/output/aSyn_BP_bg500_top10.svg,78993,,size only; matplotlib stamps SVG
+figures/main_01/output/aSyn_CC_bg500_top10.png,182605,38e6f86f9cc4f39901ebd3ff2918a712,
+figures/main_01/output/aSyn_CC_bg500_top10.svg,72971,,size only; matplotlib stamps SVG
+figures/main_01/output/volcano_asyn_wt.png,335824,b6ced42f0082c7edcfc5a2d07d8e643e,
+figures/main_01/output/volcano_asyn_wt.svg,399185,,size only; matplotlib stamps SVG
+figures/main_01/output/volcano_lrrk2_wt.png,315457,dbc26985a01571543c8220d147c6ca4b,
+figures/main_01/output/volcano_lrrk2_wt.svg,338108,,size only; matplotlib stamps SVG
+figures/main_01/output/volcano_vps35_wt.png,372795,3305b98bf8ceedc686c0a46ddabca662,
+figures/main_01/output/volcano_vps35_wt.svg,368960,,size only; matplotlib stamps SVG
+figures/main_07/output/panel_D_mageck_scatter.png,175450,1e69ba5835ab059d6d63eaacbdbefb3b,
+figures/main_07/output/panel_D_mageck_scatter.svg,96379,,size only; matplotlib stamps SVG
+figures/main_07/output/panel_F_th_counts.png,71553,89e20fe5c8909cbd79dc1e4e37de14fb,
+figures/main_07/output/panel_F_th_counts.svg,43134,,size only; matplotlib stamps SVG
+figures/main_07/output/panel_F_th_counts_mixed_model.csv,538,0eb1fa14a2db01f85ccde9568995982b,
+figures/main_07/output/panel_G_th_count_difference.csv,529,76771c08e02499119485e461ab984876,
+figures/main_07/output/panel_G_th_count_difference.png,81947,012adce1a269626d0504814ab530f501,
+figures/main_07/output/panel_G_th_count_difference.svg,49060,,size only; matplotlib stamps SVG

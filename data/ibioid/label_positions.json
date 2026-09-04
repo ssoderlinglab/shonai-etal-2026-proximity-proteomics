@@ -1,0 +1,248 @@
+{
+  "Vps35": {
+    "Ccdc93": {
+      "x_label": 7.3895,
+      "y_label": 8.2743
+    },
+    "Snx1": {
+      "x_label": 6.5674,
+      "y_label": 8.4396
+    },
+    "Vti1b": {
+      "x_label": 6.814,
+      "y_label": 7.1674
+    },
+    "Ccdc22": {
+      "x_label": 5.9502,
+      "y_label": 6.9755
+    },
+    "Washc1": {
+      "x_label": 4.8546,
+      "y_label": 9.1169
+    },
+    "Stx8": {
+      "x_label": 4.708,
+      "y_label": 7.7318
+    },
+    "Tbc1d5": {
+      "x_label": 4.9738,
+      "y_label": 6.9219
+    },
+    "Snx3": {
+      "x_label": 4.1834,
+      "y_label": 7.5479
+    },
+    "Snx2": {
+      "x_label": 3.5813,
+      "y_label": 7.4707
+    },
+    "Vps35": {
+      "x_label": 2.8025,
+      "y_label": 7.3394
+    },
+    "Clint1": {
+      "x_label": 3.2393,
+      "y_label": 5.0969
+    },
+    "Commd1": {
+      "x_label": 3.1441,
+      "y_label": 4.0129
+    },
+    "Eps15l1": {
+      "x_label": 2.7267,
+      "y_label": 5.3045
+    },
+    "Snx4": {
+      "x_label": 1.5885,
+      "y_label": 5.5723
+    },
+    "Epn1": {
+      "x_label": 2.7255,
+      "y_label": 3.6098
+    },
+    "Snap29": {
+      "x_label": 0.4753,
+      "y_label": 4.5854
+    },
+    "Vps26b": {
+      "x_label": 0.8782,
+      "y_label": 5.3951
+    },
+    "Washc4": {
+      "x_label": 0.4719,
+      "y_label": 5.0766
+    },
+    "Dnajc6": {
+      "x_label": 1.8748,
+      "y_label": 4.5925
+    },
+    "Sh3gl2": {
+      "x_label": 0.2141,
+      "y_label": 3.982
+    },
+    "Washc5": {
+      "x_label": 2.6832,
+      "y_label": 3.2422
+    },
+    "Igf2r": {
+      "x_label": 1.6687,
+      "y_label": 1.5339
+    },
+    "Snap91": {
+      "x_label": 0.2335,
+      "y_label": 3.5537
+    },
+    "Snap25": {
+      "x_label": 2.1159,
+      "y_label": 2.5588
+    },
+    "Picalm": {
+      "x_label": 0.1181,
+      "y_label": 3.089
+    },
+    "Vamp2": {
+      "x_label": 1.5863,
+      "y_label": 1.05
+    },
+    "Vps26a": {
+      "x_label": 0.2372,
+      "y_label": 2.2492
+    }
+  },
+  "aSyn": {
+    "Bsn": {
+      "x_label": 1.8815,
+      "y_label": 7.7433
+    },
+    "Pclo": {
+      "x_label": 0.1338,
+      "y_label": 5.332
+    },
+    "Syn1": {
+      "x_label": 0.183,
+      "y_label": 3.9168
+    },
+    "Dnajc6": {
+      "x_label": 0.718,
+      "y_label": 6.6348
+    },
+    "Snap91": {
+      "x_label": 3.2281,
+      "y_label": 8.9027
+    },
+    "Rbm14": {
+      "x_label": -0.0364,
+      "y_label": 4.4152
+    },
+    "Snca": {
+      "x_label": 4.3001,
+      "y_label": 5.9266
+    },
+    "Matr3": {
+      "x_label": 0.2252,
+      "y_label": 4.8369
+    },
+    "Khsrp": {
+      "x_label": 1.1605,
+      "y_label": 7.1117
+    },
+    "Sh3gl2": {
+      "x_label": 3.4188,
+      "y_label": 6.0809
+    },
+    "Sfpq": {
+      "x_label": 0.0439,
+      "y_label": 3.4658
+    },
+    "Sncb": {
+      "x_label": 4.3621,
+      "y_label": 5.0851
+    },
+    "Epn1": {
+      "x_label": 0.7022,
+      "y_label": 5.7709
+    },
+    "Npm1": {
+      "x_label": 1.5185,
+      "y_label": 1.5537
+    },
+    "Vamp2": {
+      "x_label": 0.0439,
+      "y_label": 2.5956
+    },
+    "Ptbp2": {
+      "x_label": 2.8493,
+      "y_label": 2.7257
+    },
+    "Cplx2": {
+      "x_label": 7.4276,
+      "y_label": 5.3343
+    }
+  },
+  "Lrrk2": {
+    "Mapt": {
+      "x_label": 0.2353,
+      "y_label": 5.326
+    },
+    "Snca": {
+      "x_label": 2.9839,
+      "y_label": 5.683
+    },
+    "Tbc1d5": {
+      "x_label": 2.0162,
+      "y_label": 3.0242
+    },
+    "Tbc1d10a": {
+      "x_label": 1.6201,
+      "y_label": 3.5117
+    },
+    "Rab11fip2": {
+      "x_label": -0.0629,
+      "y_label": 3.6875
+    },
+    "Clint1": {
+      "x_label": 2.0053,
+      "y_label": 4.2373
+    },
+    "Eps15l1": {
+      "x_label": 0.2557,
+      "y_label": 4.768
+    },
+    "Synrg": {
+      "x_label": 2.4843,
+      "y_label": 6.1127
+    },
+    "Lrrk2": {
+      "x_label": 0.8085,
+      "y_label": 5.6192
+    },
+    "Gga2": {
+      "x_label": -0.0003,
+      "y_label": 2.3184
+    },
+    "Rab11fip5": {
+      "x_label": -0.2875,
+      "y_label": 2.8024
+    },
+    "Gga3": {
+      "x_label": 0.1517,
+      "y_label": 4.0654
+    },
+    "Ndel1": {
+      "x_label": 1.899,
+      "y_label": 1.9498
+    },
+    "Gga1": {
+      "x_label": -0.0822,
+      "y_label": 1.9239
+    },
+    "Epn1": {
+      "x_label": 0.5264,
+      "y_label": 1.6838
+    },
+    "Hdac6": {
+      "x_label": 1.7139,
+      "y_label": 1.3713
+    }
+  }
+}

@@ -1,0 +1,5 @@
+network,panel_position,category,display_name,term_id,database,term_description,statistic_source,fdr,observed_gene_count,panel_colour,colour_note,gene_set_source,category_genes_total,category_genes_plotted,significant_points,total_plotted_points,points_under_stat_box,printed_stat
+Vps35_WT,1,Synapse,Synapse,GO:0045202,GO Component,Synapse,STRING,9.68e-13,107,#FFD166,"clustogram Synapse, unchanged",frozen gene list,131,131,359,2513,0,Q = 9.7 × 10⁻¹³ / GO:0045202 / n = 131
+Vps35_WT,2,SV_Endocytosis,SV + Endocytosis,mmu04144,KEGG,Endocytosis,STRING,4.08e-14,40,#E63946,"clustogram Presynapse hue, reassigned to break a duplicate",frozen gene list,53,53,359,2513,0,Q = 4.1 × 10⁻¹⁴ / mmu04144 / n = 53
+Vps35_WT,3,Endosome,Endosome,GO:0005768,GO Component,Endosome,STRING,2.59e-20,90,#4CC9F0,"clustogram Endosome, unchanged",frozen gene list,92,92,359,2513,0,Q = 2.6 × 10⁻²⁰ / GO:0005768 / n = 92
+Vps35_WT,4,Vesicle_mediated_transport,Vesicle-mediated transport,GO:0016192,GO Process,Vesicle-mediated transport,STRING,2.63e-26,116,#9B5DE5,"clustogram Cytoskeleton hue, reassigned",frozen gene list,124,124,359,2513,0,Q = 2.6 × 10⁻²⁶ / GO:0016192 / n = 124

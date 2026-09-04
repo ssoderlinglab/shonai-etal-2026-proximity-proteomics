@@ -1,0 +1,10 @@
+bait,db,available,recovered,pct_of_db,pct_of_proxiome
+VPS35,BioGRID,309,29,9.4,8.1
+VPS35,IntAct,126,18,14.3,5.0
+VPS35,STRING_physical,58,16,27.6,4.5
+SNCA,BioGRID,1550,140,9.0,33.0
+SNCA,IntAct,415,20,4.8,4.7
+SNCA,STRING_physical,88,11,12.5,2.6
+LRRK2,BioGRID,521,22,4.2,7.1
+LRRK2,IntAct,1292,45,3.5,14.6
+LRRK2,STRING_physical,280,10,3.6,3.2

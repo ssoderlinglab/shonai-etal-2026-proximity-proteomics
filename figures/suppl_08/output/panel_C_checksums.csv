@@ -1,0 +1,7 @@
+# PNG md5 is a valid identity check. SVG md5 is NOT:
+# matplotlib stamps a <metadata> date and randomises clip and
+# glyph ids, so a re-render changes SVG bytes while the
+# artwork is identical.
+file,bytes,md5
+panel_C_module_rank.png,88355,bb54d97147353b7664ac1a44a90860d5
+panel_C_module_rank.svg,15217,SVG-md5-not-a-valid-check

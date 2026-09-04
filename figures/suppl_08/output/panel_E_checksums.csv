@@ -1,0 +1,5 @@
+file,bytes,md5,check
+panel_E_martirosyan.png,77851,d9963b03191df7439ad699543f27ab96,md5 (valid)
+panel_E_martirosyan_transparent.png,78147,5ac8f2121929ce719eec97747d1396bd,md5 (valid)
+panel_E_martirosyan.svg,25006,4007231d2c91b44daac9c391a2d58c98,byte size (SVG md5 is NOT valid here)
+martirosyan_replication.csv,1004,8a6a84d9c89a279d423f801a92a7d4ab,"input, md5 (valid)"

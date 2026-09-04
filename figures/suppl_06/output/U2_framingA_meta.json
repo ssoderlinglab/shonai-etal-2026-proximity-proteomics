@@ -1,0 +1,11 @@
+{
+  "connectivity_preservation": "deliberately not computed, 21 columns per genotype",
+  "correlation_axis": "sedimentation fractions, NOT biological samples",
+  "m11_reference_size_asserted": 77,
+  "min_module_n": 8,
+  "n_permutations": 2000,
+  "n_rows": 172,
+  "reference_partition": "LRRK2",
+  "seed": 20260826,
+  "soft_power": 6
+}

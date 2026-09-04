@@ -1,0 +1,5 @@
+network,panel_position,category,display_name,term_id,database,term_description,statistic_source,fdr,observed_gene_count,panel_colour,colour_note,gene_set_source,category_genes_total,category_genes_plotted,significant_points,total_plotted_points,points_under_stat_box,printed_stat
+aSyn_WT,1,Synapse,Synapse,GO:0045202,GO Component,Synapse,STRING,1.41e-21,143,#FFD166,"clustogram Synapse, unchanged",frozen gene list,155,155,424,2535,0,Q = 1.4 × 10⁻²¹ / GO:0045202 / n = 155
+aSyn_WT,2,SV_Endocytosis,SV + Endocytosis,mmu04144,KEGG,Endocytosis,STRING,0.0303,21,#E63946,"clustogram Presynapse hue, reassigned to break a duplicate",frozen gene list,36,36,424,2535,0,Q = 3.0 × 10⁻² / mmu04144 / n = 36
+aSyn_WT,3,RNA_splicing,RNA splicing,GO:0008380,GO Process,RNA splicing,STRING,1.21e-06,40,#4CC9F0,"clustogram Endosome cyan, free in this row",frozen gene list,64,64,424,2535,0,Q = 1.2 × 10⁻⁶ / GO:0008380 / n = 64
+aSyn_WT,4,Cytoskeleton,Cytoskeleton,GO:0005856,GO Component,Cytoskeleton,STRING,1.10e-09,124,#9B5DE5,"clustogram Cytoskeleton, unchanged",frozen gene list,122,122,424,2535,0,Q = 1.1 × 10⁻⁹ / GO:0005856 / n = 122

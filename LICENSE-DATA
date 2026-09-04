@@ -1,0 +1,58 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Soderling Lab, Duke University
+
+The data in this repository are licensed under the Creative Commons Attribution
+4.0 International License. The full legal code is at:
+
+    https://creativecommons.org/licenses/by/4.0/legalcode
+
+You are free to share and adapt the material for any purpose, including
+commercially, provided you give appropriate credit, link to the licence, and
+indicate if changes were made.
+
+Scope
+-----
+This licence covers:
+
+  data/**                     processed inputs, except the four files listed under
+                              "External inputs" below
+  figures/*/output/**         figures and source-data tables produced by the builders
+  tables/output/**            supplemental tables produced by the builders
+  MANIFEST.csv, CHECKSUMS.csv, data/PROVENANCE.csv
+
+The code in this repository is licensed separately, under the MIT License in
+LICENSE. That covers:
+
+  src/**, figures/*/scripts/**, tables/scripts/**, run_all.py,
+  requirements.txt, environment.yml, README.md
+
+External inputs
+---------------
+Four inputs under data/ originate outside this study and are redistributed
+under the terms of their sources, not under this licence. Each is reduced to
+the rows and columns the analysis reads.
+
+  data/ibioid/go_string/*.tsv
+  data/ibioid/go_enrichment/*.tsv
+  data/ibiocofrac/m11/go_enrichment/*.tsv
+      Functional enrichment computed on this study's gene lists by STRING
+      (string-db.org), v12.0. STRING data are released under CC BY 4.0.
+
+  data/external/syngo_1.3_Lrrk2_WT_ontologies_with_annotations.xlsx
+      Synapse enrichment computed on this study's gene list by SynGO
+      (syngoportal.org), release 1.3, run 2026-08-03. See SynGO for its terms.
+
+  data/external/PanglaoDB_markers_27_Mar_2020.tsv
+      Cell-type markers from PanglaoDB (panglaodb.se), 27 March 2020 release,
+      reduced to the mouse brain rows of the six cell types used and the four
+      columns read. See PanglaoDB for its terms.
+
+  data/external/annotation.BrainCellAtlas_Saunders_version_2018.04.01.csv
+      Cluster annotation from the Saunders et al. mouse brain atlas, version
+      2018.04.01, reduced to the substantia nigra rows. See the source for its
+      terms.
+
+Attribution
+-----------
+If you use these data, cite the associated publication and this repository.

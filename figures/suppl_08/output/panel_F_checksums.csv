@@ -1,0 +1,5 @@
+file,bytes,md5,check
+panel_F_stxbp1.png,75897,4aec1a33da728d9bae6730f4439eade4,md5 (valid)
+panel_F_stxbp1_transparent.png,76156,a5e137186d22de50806cd34ccd73ecc5,md5 (valid)
+panel_F_stxbp1.svg,22288,21f0a255737b11c77d96a504f0e8ee70,byte size (SVG md5 is NOT valid here)
+stxbp1_reproduction_table.csv,816,d630b4795072bdf32bdf8636040c5fc9,"input, md5 (valid)"

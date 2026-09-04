@@ -1,0 +1,95 @@
+{
+  "seed": 20260731,
+  "n_perm": 200000,
+  "n_boot": 20000,
+  "permutation": {
+    "n_proteins": 77,
+    "observed_mean_log2FC": -0.18079905242697022,
+    "proteome_mean_log2FC": 0.004500147919106026,
+    "null_sd": 0.014496313485286716,
+    "exceedances": 0,
+    "p_value": null,
+    "p_upper_bound": 5e-06,
+    "z": -12.776154956883255
+  },
+  "bootstrap": {
+    "mean_log2FC": -0.18079905242697022,
+    "ci95_low": -0.21269572457531424,
+    "ci95_high": -0.14933032941773144,
+    "excludes_zero": true
+  },
+  "sign_test": {
+    "n": 77,
+    "n_negative": 72,
+    "pct_negative": 93.50649350649351,
+    "binomial_p": 2.8041083952368736e-16
+  },
+  "competitive_rank": {
+    "module_mean_log2FC": -0.18079905242697025,
+    "rank_most_negative": 2,
+    "k_modules": 41,
+    "most_negative_modules": {
+      "M20": -0.1809,
+      "M11": -0.1808,
+      "M19": -0.1288,
+      "M39": -0.1084,
+      "M17": -0.0946
+    }
+  },
+  "per_replicate": {
+    "Rep1": {
+      "mean_log2FC": -0.5709597599592199,
+      "n_negative": 76,
+      "n": 77
+    },
+    "Rep2": {
+      "mean_log2FC": -0.16395519963061927,
+      "n_negative": 68,
+      "n": 77
+    },
+    "Rep3": {
+      "mean_log2FC": 0.19251780230892843,
+      "n_negative": 11,
+      "n": 77
+    }
+  },
+  "variance_decomposition": {
+    "LRRK2": {
+      "raw_intensity_median_pct": {
+        "Fraction": 67.45,
+        "Replicate": 8.45,
+        "Genotype": 0.49
+      },
+      "genotype_effect_pct": {
+        "Replicate": 33.18,
+        "Fraction": 4.37,
+        "Accession": 6.79
+      }
+    },
+    "SNCA": {
+      "raw_intensity_median_pct": {
+        "Fraction": 61.1,
+        "Replicate": 5.41,
+        "Genotype": 0.83
+      },
+      "genotype_effect_pct": {
+        "Replicate": 1.38,
+        "Fraction": 5.46,
+        "Accession": 9.02
+      }
+    },
+    "VPS35": {
+      "raw_intensity_median_pct": {
+        "Fraction": 64.53,
+        "Replicate": 4.67,
+        "Genotype": 0.82
+      },
+      "genotype_effect_pct": {
+        "Replicate": 0.12,
+        "Fraction": 10.16,
+        "Accession": 8.01
+      }
+    }
+  },
+  "design_note": "Each replicate is a pool of 5 animals; animal-level variance is not recoverable by design."
+}

@@ -1,0 +1,82 @@
+[
+ {
+  "subtype": "SOX6_PART1",
+  "OR": 7.2586844050258685,
+  "q": 4.899472394104596e-07,
+  "n_marker": 465,
+  "overlap": 14,
+  "lineage": "SOX6"
+ },
+ {
+  "subtype": "SOX6_AGTR1",
+  "OR": 6.570179986667655,
+  "q": 4.899472394104596e-07,
+  "n_marker": 603,
+  "overlap": 16,
+  "lineage": "SOX6"
+ },
+ {
+  "subtype": "SOX6_GFRA2",
+  "OR": 5.696440677966102,
+  "q": 2.3163363270838674e-05,
+  "n_marker": 484,
+  "overlap": 12,
+  "lineage": "SOX6"
+ },
+ {
+  "subtype": "CALB1_CALCR",
+  "OR": 4.624583333333334,
+  "q": 8.131961012192855e-05,
+  "n_marker": 588,
+  "overlap": 12,
+  "lineage": "CALB1"
+ },
+ {
+  "subtype": "CALB1_CRYM_CCDC68",
+  "OR": 4.522095700722329,
+  "q": 8.04285533604942e-05,
+  "n_marker": 660,
+  "overlap": 13,
+  "lineage": "CALB1"
+ },
+ {
+  "subtype": "CALB1_TRHR",
+  "OR": 4.096488402061856,
+  "q": 8.131961012192855e-05,
+  "n_marker": 790,
+  "overlap": 14,
+  "lineage": "CALB1"
+ },
+ {
+  "subtype": "CALB1_PPP1R17",
+  "OR": 3.8112070925210273,
+  "q": 0.0016047999895790776,
+  "n_marker": 507,
+  "overlap": 9,
+  "lineage": "CALB1"
+ },
+ {
+  "subtype": "CALB1_GEM",
+  "OR": 3.8060569594865625,
+  "q": 0.00014449177871841024,
+  "n_marker": 845,
+  "overlap": 14,
+  "lineage": "CALB1"
+ },
+ {
+  "subtype": "SOX6_DDT",
+  "OR": 2.0795364238410596,
+  "q": 0.02692970627734428,
+  "n_marker": 1220,
+  "overlap": 12,
+  "lineage": "SOX6"
+ },
+ {
+  "subtype": "CALB1_RBP4",
+  "OR": 1.5574314574314574,
+  "q": 0.18718358209153654,
+  "n_marker": 889,
+  "overlap": 7,
+  "lineage": "CALB1"
+ }
+]

@@ -1,0 +1,2 @@
+n_proteins,observed_mean_log2FC,proteome_mean_log2FC,null_sd,exceedances,p_value,p_upper_bound,z
+77,-0.18079905242697022,0.004500147919106026,0.014496313485286716,0,,5e-06,-12.776154956883255

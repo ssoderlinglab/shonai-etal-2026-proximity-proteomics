@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+# conflict copies that a synchronising filesystem can leave beside a rewritten file
+* [0-9]
+* [0-9].*

@@ -1,0 +1,127 @@
+target,md5,size_bytes,rows,origin,consumers
+cortex/deqms_all_contrasts_long.tsv,37f1360548afcb2c83f899ffdf1c513f,6671443,26031,this study,figures/suppl_07/scripts/cortex_group_permutation.py | figures/suppl_07/scripts/panels_BCD.py
+craave_seq/histology/L_R_paired_comparison.csv,827bf4c88d23ee951f081f47c778cc99,561,18,this study,Figure_7/data/histology/L_R_paired_comparison.csv | Figure_S5/data/tent_histology/L_R_paired_comparison.csv
+craave_seq/histology/cell_count.csv,54c0baf12d7dcd89c66d2eca65f297ab,4943,110,this study,Figure_7/data/histology/cell_count.csv
+craave_seq/histology/ilastik_left_right_summary.csv,bdafb7f9dd9e693a285a835199ee9a2c,4263,37,this study,Figure_7/data/histology/ilastik_left_right_summary.csv | Figure_S4/data/gfp_histology/ilastik_left_right_summary.csv
+craave_seq/mageck/Baseline.gene_summary.txt,dd0738cdae3e83e13b15c1a2f6074bc0,6116,70,this study,Figure_7/data/mageck_output/Baseline.gene_summary.txt
+craave_seq/mageck/aSyn.gene_summary.txt,8789e67cc64e57bc6169b964837a0666,6154,70,this study,Figure_7/data/mageck_output/aSyn.gene_summary.txt
+craave_seq/mea/combined_well_data_with_div14.csv,e920205ef9227d66dcb33c615c2f8c34,62554,288,this study,Figure_S5/data/mea/combined_well_data_with_div14.csv
+craave_seq/mea/integrated_lmm_results_div14.csv,49ff909e9c743f67c9a0c9d9efea0ae8,9068,22,this study,Figure_S5/data/mea/integrated_lmm_results_div14.csv
+craave_seq/processed/processed_data_CRISPR_KO.csv,4702f40f425a7061aa335dee874e1b85,299120,3728,this study,Figure_7/data/crispr_processed/processed_data_CRISPR_KO.csv | Figure_S4/data/crispr_screen/processing/processed_data_CRISPR_KO.csv
+craave_seq/qc/gRNA_recovery_estimation.xlsx,51e9fc40b4ff4cface9e1438a570468f,7202,,this study,Figure_S4/data/gRNA_recovery/gRNA_recovery_estimation.xlsx
+craave_seq/qc/quantification_table.xlsx,e5faec352c79b5b9ff05f26768528349,9074,,this study,Figure_S4/data/moi_optimization/quantification_table.xlsx
+craave_seq/screen/library/sgRNA_library_CRISPR_KO.csv,ada73d5146b5fca0b36ae86b37ad6c88,52277,466,this study,Figure_S4/data/crispr_screen/library/sgRNA_library_CRISPR_KO.csv
+craave_seq/screen/raw_counts/Baseline/Baseline_Post_Rep1.txt,77ad90f6c13b5272c3bdd8bca7ca5100,8271,466,this study,Figure_S4/data/crispr_screen/raw_counts/Baseline/Baseline_Post_Rep1.txt
+craave_seq/screen/raw_counts/Baseline/Baseline_Post_Rep2.txt,4ace7148cc06703974c5a870e9388a1f,8271,466,this study,Figure_S4/data/crispr_screen/raw_counts/Baseline/Baseline_Post_Rep2.txt
+craave_seq/screen/raw_counts/Baseline/Baseline_Post_Rep3.txt,d5cbccd27779726f3943bcef7eda2528,8271,466,this study,Figure_S4/data/crispr_screen/raw_counts/Baseline/Baseline_Post_Rep3.txt
+craave_seq/screen/raw_counts/Baseline/Baseline_Post_Rep4.txt,20491f44cbf9ca350aa1563dbe2423f1,8271,466,this study,Figure_S4/data/crispr_screen/raw_counts/Baseline/Baseline_Post_Rep4.txt
+craave_seq/screen/raw_counts/Baseline/Baseline_Pre_Rep1.txt,5347dda3520141f8246112f4e3b47532,8271,466,this study,Figure_S4/data/crispr_screen/raw_counts/Baseline/Baseline_Pre_Rep1.txt
+craave_seq/screen/raw_counts/Baseline/Baseline_Pre_Rep2.txt,54f8f4885404e380e322c2efc8448eb6,8271,466,this study,Figure_S4/data/crispr_screen/raw_counts/Baseline/Baseline_Pre_Rep2.txt
+craave_seq/screen/raw_counts/Baseline/Baseline_Pre_Rep3.txt,1124e6c45f4619706c822f613c274f93,8271,466,this study,Figure_S4/data/crispr_screen/raw_counts/Baseline/Baseline_Pre_Rep3.txt
+craave_seq/screen/raw_counts/Baseline/Baseline_Pre_Rep4.txt,1d8baee5453b939b6a7982aae9de0465,8271,466,this study,Figure_S4/data/crispr_screen/raw_counts/Baseline/Baseline_Pre_Rep4.txt
+craave_seq/screen/raw_counts/aSyn/aSyn_Post_Rep1.txt,ffc2880e5bfd07488cb710325f9bebec,8271,466,this study,Figure_S4/data/crispr_screen/raw_counts/aSyn/aSyn_Post_Rep1.txt
+craave_seq/screen/raw_counts/aSyn/aSyn_Post_Rep2.txt,24292952eca0e87eaa4cd9341db3d613,8271,466,this study,Figure_S4/data/crispr_screen/raw_counts/aSyn/aSyn_Post_Rep2.txt
+craave_seq/screen/raw_counts/aSyn/aSyn_Post_Rep3.txt,cbbf8efbe397d2f2e5962b57e531ddb7,8271,466,this study,Figure_S4/data/crispr_screen/raw_counts/aSyn/aSyn_Post_Rep3.txt
+craave_seq/screen/raw_counts/aSyn/aSyn_Post_Rep4.txt,6836d9b6bbb72cac8b8c8396303ff4ed,8271,466,this study,Figure_S4/data/crispr_screen/raw_counts/aSyn/aSyn_Post_Rep4.txt
+craave_seq/screen/raw_counts/aSyn/aSyn_Pre_Rep1.txt,4c3a69d464813707bd8f35d9a16a2056,8271,466,this study,Figure_S4/data/crispr_screen/raw_counts/aSyn/aSyn_Pre_Rep1.txt
+craave_seq/screen/raw_counts/aSyn/aSyn_Pre_Rep2.txt,a2db79f5b2e3fbff2e4bd0d5061aadf3,8271,466,this study,Figure_S4/data/crispr_screen/raw_counts/aSyn/aSyn_Pre_Rep2.txt
+craave_seq/screen/raw_counts/aSyn/aSyn_Pre_Rep3.txt,5044be8c8e0296000f4a1216eeba8f5c,8271,466,this study,Figure_S4/data/crispr_screen/raw_counts/aSyn/aSyn_Pre_Rep3.txt
+craave_seq/screen/raw_counts/aSyn/aSyn_Pre_Rep4.txt,b6d42645b35586fc0109f6583abb6304,8271,466,this study,Figure_S4/data/crispr_screen/raw_counts/aSyn/aSyn_Pre_Rep4.txt
+craave_seq/tables/Table_S3_CrAAVe_seq_CRISPR_Screen.xlsx,766b21a8193259b814078c290bf64fd1,85562,,this study,tables/scripts/build_table_S7_craave.py
+craave_seq/western_blot/fiji_quant.csv,0e2f3d8c86818d560958f7d7b2382d88,542,16,this study,Figure_S5/data/vamp2_wb/fiji_quant.csv
+craave_seq/western_blot/normalized_lane_table.csv,c7649d4402a756471b98688f7291ea0d,1379,9,this study,Figure_S4/data/wb_quantification/normalized_lane_table.csv
+external/PanglaoDB_markers_27_Mar_2020.tsv,a1d169b80c29b10cdbab8997d7a7c8e7,9146,8286,"third party: PanglaoDB, 27 March 2020 marker release",Figure_S2/data/cell_type_references/PanglaoDB_markers_27_Mar_2020.tsv
+external/annotation.BrainCellAtlas_Saunders_version_2018.04.01.csv,9001d1a63b9550ee8952675fcb3605be,5514,565,"third party: Saunders et al. mouse brain atlas, version 2018.04.01",Figure_S2/data/cell_type_references/annotation.BrainCellAtlas_Saunders_version_2018.04.01.csv
+external/syngo_1.3_Lrrk2_WT_ontologies_with_annotations.xlsx,6db34487cb366392a26d516d613a3b2e,29819,,"third-party tool output: SynGO release 1.3, run on this study's gene list",src/perbait_category_volcano.py
+human/martirosyan_replication.csv,8a6a84d9c89a279d423f801a92a7d4ab,1004,6,"this study, computed against marker definitions from the published human single-cell studies the manuscript cites",figures/suppl_08/scripts/panel_E_martirosyan.py
+human/module_specificity_42modules.csv,ed853de4aea60e73486af6f4f3bfd18f,2022,42,"this study, computed against marker definitions from the published human single-cell studies the manuscript cites",figures/suppl_08/scripts/panel_C_module_rank.py
+human/proxiome_AGTR1_overlap.csv,60bd00eefc85449659d963b89e7cc8f1,1044,6,"this study, computed against marker definitions from the published human single-cell studies the manuscript cites",figures/suppl_08/scripts/panel_D_proxiome_agtr1.py
+human/stxbp1_reproduction_table.csv,d630b4795072bdf32bdf8636040c5fc9,816,10,"this study, computed against marker definitions from the published human single-cell studies the manuscript cites",figures/suppl_08/scripts/panel_F_stxbp1.py
+human/subtype_enrichment_M11.json,18827dfcec15633e0e96428a76c7f153,1487,,"this study, computed against marker definitions from the published human single-cell studies the manuscript cites",figures/suppl_08/scripts/panel_B_subtype_ranking.py
+ibiocofrac/fractionation/LRRK2_young_for_PCA.csv,e3b16e0c834554106a7b8ef516b5f15d,1154928,48,this study,Figure_5/data/fractionation/LRRK2_young_for_PCA.csv | Figure_S2/data/fractionation/LRRK2_young_for_PCA.csv | Figure_S3/data/fractionation/LRRK2_young_for_PCA.csv
+ibiocofrac/fractionation/SNCA_young_for_PCA.csv,1103b4cbe5c947c89fb891fcc9d9c314,433343,48,this study,Figure_5/data/fractionation/SNCA_young_for_PCA.csv | Figure_S3/data/fractionation/SNCA_young_for_PCA.csv
+ibiocofrac/fractionation/Vps35_young_for_PCA.csv,67abbc9b9783181c0c114239f688db77,537955,48,this study,Figure_5/data/fractionation/Vps35_young_for_PCA.csv | Figure_S3/data/fractionation/Vps35_young_for_PCA.csv
+ibiocofrac/fractions/LOPIT_LRRK2_young_Transformed_Rel-int_mixture.csv,283bbe2ffc443c6429a6b676759a2ef9,5106107,83832,this study,Figure 6 panel D statistics chain
+ibiocofrac/m11/M11_77_gene_list.csv,b02add3c6c7c7799c22b9d963c329fbd,1681,77,this study,Figure_6/data/m11_network/M11_77_gene_list.csv
+ibiocofrac/m11/go_enrichment/enrichment.Component.tsv,8704879436917e82ca2c3fc9ac754acd,57281,104,"third-party tool output: STRING, run on this study's gene list",Figure_6/data/m11_enrichment_go/enrichment.Component.tsv
+ibiocofrac/m11/go_enrichment/enrichment.Function.tsv,3dc121f88a4809a4181a46277996b77f,12136,26,"third-party tool output: STRING, run on this study's gene list",Figure_6/data/m11_enrichment_go/enrichment.Function.tsv
+ibiocofrac/m11/go_enrichment/enrichment.Process.tsv,74251ad6db06d725b60e779afc872d7c,58334,119,"third-party tool output: STRING, run on this study's gene list",Figure_6/data/m11_enrichment_go/enrichment.Process (1).tsv
+ibiocofrac/markers/20230228_DANmarker_for_Venn.csv,9f1ddfdc4a7c5def9397fdd611c0a86c,2227,118,this study,Figure_S2/data/DAN_markers/20230228_DANmarker_for_Venn.csv
+ibiocofrac/markers/Organelle_Marker_Reference.csv,9eb00810d90ea63d5c4f5c7298a43d55,72057,1768,this study,Figure_5/data/marker_reference/Organelle_Marker_Reference.csv
+ibiocofrac/markers/eLife_APEX_DA_marker.csv,3ff23d68071913337ba0b150b5e1cc9f,5982,55,this study,Figure_S2/data/DAN_markers/eLife_APEX_DA_marker.csv
+ibiocofrac/modules/LRRK2-TMT-Module-Results_relintensity.xlsx,0b97b95e9f75063732c51aebfa4b68eb,74017,,this study,Figure 6 panel D statistics chain
+ibiocofrac/modules/Partition_Gene_combined_3PD_models.csv,0ce23049887608a1dcce12480c4df3f2,100581,3518,this study,Figure_5/data/module_data/Partition_Gene_combined_3PD_models.csv | Figure_6/data/module_data/Partition_Gene_combined_3PD_models.csv | Figure_S3/data/partition/Partition_Gene_combined_3PD_models.csv
+ibiocofrac/permutation/permutation_12modules.csv,d7029ae4b5ce4974ad489e291a76993d,8441,36,this study,tables/scripts/build_table_S5_ibiocofrac.py
+ibiocofrac/permutation/permutation_all21.csv,2d088f9aba8f3d6d5c56dbce4686247d,5222,21,this study,tables/scripts/build_table_S5_ibiocofrac.py
+ibiocofrac/pilot/20230130_pilot.csv,34d802cbfe425a5d7b8855e5c8a257fd,290286,2032,this study,Figure_S2/data/pilot_proteomics/20230130_pilot.csv
+ibiocofrac/tidy/iBioCoFrac_Tidy_LRRK2.csv,06723030ff2c55a3a2fead55c57a0d61,2693841,82404,this study,Figure 6 panel D statistics chain
+ibiocofrac/tidy/iBioCoFrac_Tidy_SNCA.csv,423a615f81e9a7848d9f86a6ebfe3e0d,977417,30030,this study,Figure 6 panel D statistics chain
+ibiocofrac/tidy/iBioCoFrac_Tidy_VPS35.csv,9f7480f35fd75d691eba103b88566062,1237002,37842,this study,Figure 6 panel D statistics chain
+ibioid/canonical_groups_rederived.json,fc4df9da429d2fc538dc4367a01c4ed7,10277,,this study,
+ibioid/category_gene_lists/Lrrk2_WT_Cytoskeleton.csv,eaf62e5c812b1257e1ad30d0b636f57d,2527,85,this study,src/perbait_category_volcano.py
+ibioid/category_gene_lists/Lrrk2_WT_SV_Endocytosis.csv,327c9de905e9a5edfd8d7d0f20b77b2f,757,23,this study,src/perbait_category_volcano.py
+ibioid/category_gene_lists/Lrrk2_WT_Synapse.csv,4328b1eaf933464e7ca40d06cfef16ef,1627,66,this study,src/perbait_category_volcano.py
+ibioid/category_gene_lists/Vps35_WT_Endosome.csv,671a88dea29d35cea67f7a77183caa55,2371,92,this study,src/perbait_category_volcano.py
+ibioid/category_gene_lists/Vps35_WT_SV_Endocytosis.csv,0fcd727d0134587074d201b9e936be98,1690,53,this study,src/perbait_category_volcano.py
+ibioid/category_gene_lists/Vps35_WT_Synapse.csv,bc22a475c4ff0a6b1d28e1db233eb05d,3205,131,this study,src/perbait_category_volcano.py
+ibioid/category_gene_lists/Vps35_WT_Vesicle_mediated_transport.csv,6f916b56b5adc00eeaa0b78637390c9b,5401,124,this study,src/perbait_category_volcano.py
+ibioid/category_gene_lists/aSyn_WT_Cytoskeleton.csv,9a3c84510aabd5694f2b966630e0bd93,3462,122,this study,src/perbait_category_volcano.py
+ibioid/category_gene_lists/aSyn_WT_RNA_splicing.csv,255b3ac5a4026c8a5f8b1408efbe555e,1836,64,this study,src/perbait_category_volcano.py
+ibioid/category_gene_lists/aSyn_WT_SV_Endocytosis.csv,d74f05a75915c4cd69abed641e90e7aa,1121,36,this study,src/perbait_category_volcano.py
+ibioid/category_gene_lists/aSyn_WT_Synapse.csv,95cd16e67a36bd85df00b0b65039eed1,3640,155,this study,src/perbait_category_volcano.py
+ibioid/contrasts/Lrrk2_G2019S_vs_Control.tsv,5c9fbc07d7d00ab2247f42b3e4291c72,1534245,5954,this study,iBioID rebuild
+ibioid/contrasts/Lrrk2_WT_vs_Control.tsv,2aec28ee9b948979e9d99cd57693d35c,1515931,5923,this study,iBioID rebuild
+ibioid/contrasts/Vps35_D620N_vs_Control.tsv,e4cefc71648e0ae0405e6bf88625838d,645891,2519,this study,iBioID rebuild
+ibioid/contrasts/Vps35_WT_vs_Control.tsv,aa7b09303791e81e49e3488c10d2fbed,635863,2519,this study,iBioID rebuild
+ibioid/contrasts/aSyn_A30P_vs_Control.tsv,6a9fa942ce75d16cfe9350cbd2693e63,644862,2540,this study,iBioID rebuild
+ibioid/contrasts/aSyn_WT_vs_Control.tsv,3e406fd1f9b5b677b7eb655f02b9d934,637305,2540,this study,iBioID rebuild
+ibioid/go_enrichment/Lrrk2_G2019S.Component.tsv,fdb79dda5d5159c077af98a3c55f0d6f,47459,35,"third-party tool output: STRING, run on this study's gene lists",iBioID rebuild
+ibioid/go_enrichment/Lrrk2_G2019S.Function.tsv,f94e190792a4c6527cc97019ad3f0d2f,9027,9,"third-party tool output: STRING, run on this study's gene lists",iBioID rebuild
+ibioid/go_enrichment/Lrrk2_G2019S.Process.tsv,5fba696682c211d9d776c4d19144c4d5,12197,14,"third-party tool output: STRING, run on this study's gene lists",iBioID rebuild
+ibioid/go_enrichment/Lrrk2_WT.Component.tsv,92a5ac82b4cbc850c072e9093093a529,59260,31,"third-party tool output: STRING, run on this study's gene lists",iBioID rebuild
+ibioid/go_enrichment/Lrrk2_WT.Function.tsv,d91c80123e7ef6d808190482c0ef7f8f,10628,8,"third-party tool output: STRING, run on this study's gene lists",iBioID rebuild
+ibioid/go_enrichment/Lrrk2_WT.Process.tsv,81dd20a7bc6c08e5bd99a6f2351e5983,10683,9,"third-party tool output: STRING, run on this study's gene lists",iBioID rebuild
+ibioid/go_enrichment/PartConv_MUT.Component.tsv,fb696d6c519f5d095927cae7b48d3292,104387,68,"third-party tool output: STRING, run on this study's gene lists",iBioID rebuild
+ibioid/go_enrichment/PartConv_MUT.Function.tsv,0233f465720e1d8d3b50fa7f118f7b7e,20138,19,"third-party tool output: STRING, run on this study's gene lists",iBioID rebuild
+ibioid/go_enrichment/PartConv_MUT.Process.tsv,f6366275092199002cd529abb3c775d1,159672,152,"third-party tool output: STRING, run on this study's gene lists",iBioID rebuild
+ibioid/go_enrichment/PartConv_WT.Component.tsv,fd2ecad5178381b0e3e5f4de076fac3a,102020,73,"third-party tool output: STRING, run on this study's gene lists",iBioID rebuild
+ibioid/go_enrichment/PartConv_WT.Function.tsv,9e46e213b590a9ebfe3b8361bf017dad,21336,24,"third-party tool output: STRING, run on this study's gene lists",iBioID rebuild
+ibioid/go_enrichment/PartConv_WT.Process.tsv,ce0d94003303d9e9f0481b615bf611c1,120347,122,"third-party tool output: STRING, run on this study's gene lists",iBioID rebuild
+ibioid/go_enrichment/Vps35_D620N.Component.tsv,9a06a417c518ae3d8d3259068e3963f8,188829,97,"third-party tool output: STRING, run on this study's gene lists",iBioID rebuild
+ibioid/go_enrichment/Vps35_D620N.Function.tsv,83b7c6f1cb6d85f22fb090183c40d2f7,37442,28,"third-party tool output: STRING, run on this study's gene lists",iBioID rebuild
+ibioid/go_enrichment/Vps35_D620N.Process.tsv,d958e2fb2fd0182e679fa31958b9e859,250095,159,"third-party tool output: STRING, run on this study's gene lists",iBioID rebuild
+ibioid/go_enrichment/Vps35_WT.Component.tsv,72da855fb3dfce97d26f5d747c49d5c9,169883,98,"third-party tool output: STRING, run on this study's gene lists",iBioID rebuild
+ibioid/go_enrichment/Vps35_WT.Function.tsv,8ffb49171e09cef9cef10ffa89ef596c,33492,26,"third-party tool output: STRING, run on this study's gene lists",iBioID rebuild
+ibioid/go_enrichment/Vps35_WT.Process.tsv,7c149909ac794d76a8d9febcbd502dd2,219256,155,"third-party tool output: STRING, run on this study's gene lists",iBioID rebuild
+ibioid/go_enrichment/aSyn_A30P.Component.tsv,d990b77117570daeaea69c989f4ad1b7,215088,103,"third-party tool output: STRING, run on this study's gene lists",iBioID rebuild
+ibioid/go_enrichment/aSyn_A30P.Function.tsv,68fcdeff7048189e3b7a8b1bbb4fbded,58446,32,"third-party tool output: STRING, run on this study's gene lists",iBioID rebuild
+ibioid/go_enrichment/aSyn_A30P.Process.tsv,736214649216d765e025f812ace3a01e,350826,186,"third-party tool output: STRING, run on this study's gene lists",iBioID rebuild
+ibioid/go_enrichment/aSyn_WT.Component.tsv,a2e4485990d9e251abc51eb46f79c77d,174170,91,"third-party tool output: STRING, run on this study's gene lists",iBioID rebuild
+ibioid/go_enrichment/aSyn_WT.Function.tsv,bae5bbd4caa17f8935f3a1b827748034,47138,29,"third-party tool output: STRING, run on this study's gene lists",iBioID rebuild
+ibioid/go_enrichment/aSyn_WT.Process.tsv,48b7ddae1cd9354fdd2178c93e494de0,301851,192,"third-party tool output: STRING, run on this study's gene lists",iBioID rebuild
+ibioid/go_enrichment/shared_MUT_partial.all_categories.tsv,92f4ab272d94ba793c40a9b6d03cbbf3,496286,422,"third-party tool output: STRING, run on this study's gene lists",iBioID rebuild
+ibioid/go_enrichment/shared_MUT_total.all_categories.tsv,ba1d9d759407c7fce1d76542f9679516,67404,118,"third-party tool output: STRING, run on this study's gene lists",iBioID rebuild
+ibioid/go_enrichment/shared_WT_partial.all_categories.tsv,4b9767495a479bf02a53a642ce7bd238,427058,377,"third-party tool output: STRING, run on this study's gene lists",iBioID rebuild
+ibioid/go_enrichment/shared_WT_total.all_categories.tsv,fe111a459728f62c140302b5d1046e05,97211,158,"third-party tool output: STRING, run on this study's gene lists",iBioID rebuild
+ibioid/go_string/Lrrk2_WT_enrichment_all_categories.tsv,7246afc83b229f1fb96d1f995df5ce03,170579,87,"third-party tool output: STRING, run on this study's gene lists",src/perbait_category_volcano.py
+ibioid/go_string/Vps35_WT_enrichment_all_categories.tsv,1977c8489ae17ee3d9c7f63b9a814c39,661804,466,"third-party tool output: STRING, run on this study's gene lists",src/perbait_category_volcano.py
+ibioid/go_string/aSyn_WT_enrichment_all_categories.tsv,54a8ed85d37c9948566e66c010a5c98f,938985,591,"third-party tool output: STRING, run on this study's gene lists",src/perbait_category_volcano.py
+ibioid/label_positions.json,252ad196dbb0375b01fe18ad4ea0c127,4319,,this study,
+ibioid/orthogonal/db_matrix_values_3DB.csv,000cd17d52e447b5b8cf23fca3db5cd5,339,9,this study,figures/suppl_04/scripts/panel_A_partner_counts.py
+ibioid/orthogonal/recovered_partners_3DB.csv,f896594056be7b5302070b70f2d6f5d9,11604,236,this study,figures/suppl_04/scripts/panel_A_partner_counts.py | figures/suppl_04/scripts/panel_B_database_support.py
+ibioid/proximity_proteome/Lrrk2_G2019S_statistics.tsv,537d8dbd0350482fcc978f593f508b36,27745,194,this study,iBioID rebuild
+ibioid/proximity_proteome/Lrrk2_WT_statistics.tsv,3d0556e15a7124311071b44c99706b64,44793,311,this study,iBioID rebuild
+ibioid/proximity_proteome/Vps35_D620N_statistics.tsv,b9431b95c5daf1a07a668d7c7ad3980c,57010,396,this study,iBioID rebuild
+ibioid/proximity_proteome/Vps35_WT_statistics.tsv,8664a5b4ac3404a929a7f56111d922f7,51980,361,this study,iBioID rebuild
+ibioid/proximity_proteome/aSyn_A30P_statistics.tsv,e20b69144aece560ff9084f969497605,73163,506,this study,iBioID rebuild
+ibioid/proximity_proteome/aSyn_WT_statistics.tsv,21b22f8b748229b827f358bfab763ecd,61516,425,this study,iBioID rebuild
+ibioid/proxiome_sets/Lrrk2_G2019S.csv,3fef62f4e8145976ee480ae59e92968d,4379,195,this study,iBioID rebuild
+ibioid/proxiome_sets/Lrrk2_WT.csv,a438243c4a302002c4950ef972a9f749,6961,311,this study,iBioID rebuild
+ibioid/proxiome_sets/Vps35_D620N.csv,960c51aae0f175da245e024cbd6519fd,8879,396,this study,iBioID rebuild
+ibioid/proxiome_sets/Vps35_WT.csv,439e458a7e51114155660e7eb1cf8a75,8105,361,this study,iBioID rebuild
+ibioid/proxiome_sets/aSyn_A30P.csv,f54049d900cff7256e4865c2eef750ac,11332,506,this study,iBioID rebuild
+ibioid/proxiome_sets/aSyn_WT.csv,0bad29dd305e9c5991c6dd998577c989,9511,425,this study,iBioID rebuild
+ibioid/replicates/Lrrk2_WT_Protein_Normalized.csv,402de88dfbc8593a3e984e5ef0f96a13,1324725,6440,this study,src/perbait_replicate_scatter.py
+ibioid/replicates/Vps35_Protein_Normalized.csv,9e4a9d817fb50a8bb423aad3dd418dc4,978814,3370,this study,src/perbait_replicate_scatter.py
+ibioid/replicates/aSyn_Protein_Normalized.csv,520c73334273cd0ddf07f98e7572848f,1070905,3690,this study,src/perbait_replicate_scatter.py
+ibioid/tables/Table_S1_iBioID_Proximity_Proteomes.xlsx,5c0d3498891b36d84382954a90f9e7e6,6406699,,this study,tables/scripts/build_table_S1_vps35.py | build_table_S2_snca.py | build_table_S3_lrrk2.py | build_table_S4_shared_proxiome.py

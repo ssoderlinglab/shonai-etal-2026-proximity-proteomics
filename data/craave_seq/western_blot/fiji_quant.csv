@@ -1,0 +1,17 @@
+﻿lane,intensity,detection,sample,rep
+1,51569.926,TotalProtein,Cre-,1
+2,47638.482,TotalProtein,Cre+,1
+3,43092.047,TotalProtein,Cre-,2
+4,49176.553,TotalProtein,Cre+,2
+5,46151.976,TotalProtein,Cre-,3
+6,42423.855,TotalProtein,Cre+,3
+7,48415.118,TotalProtein,Cre-,4
+8,46366.018,TotalProtein,Cre+,4
+1,12151.276,anti-Vamp2,Cre-,1
+2,579.607,anti-Vamp2,Cre+,1
+3,13165.276,anti-Vamp2,Cre-,2
+4,310.192,anti-Vamp2,Cre+,2
+5,10215.276,anti-Vamp2,Cre-,3
+6,244.778,anti-Vamp2,Cre+,3
+7,10704.861,anti-Vamp2,Cre-,4
+8,371.778,anti-Vamp2,Cre+,4
